@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Cypherslocker" name="[COLOR cornflowerblue]Cyphers locker[/COLOR]" version="1.0.1" provider-name="Project Cypher">
+	<extension point="xbmc.addon.repository" name="TheMegaRepo">
+		<info compressed="false">https://www.dropbox.com/s/kzkwlalt2ux7hfx/addons.xml?dl=1</info>
+		<checksum>https://www.dropbox.com/s/k3evogg7xn33z29/addons.xml.md5?dl=1</checksum>
+		<datadir zip="true">https://www.dropbox.com/sh/j3i75bbfwhfkiwx/AABVRwbXLzvSRmrjefl_bYQ8a?dl=1</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Cypers Locker Repo - Home to Project Cypher</summary>
+		<description>Cypers Locker Repo - Home to Project Cypher.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
