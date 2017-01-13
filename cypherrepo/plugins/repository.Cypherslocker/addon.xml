@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="TheMegaRepo">
 		<info compressed="false">https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/cypherrepo/plugins/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/cypherrepo/plugins/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/tree/master/cypherrepo/plugins</datadir>
+		<datadir zip="true">https://github.com/CypherMediaGIT/CypherRepo/tree/master/cypherrepo/plugins</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Cypers Locker Repo - Home to Project Cypher</summary>
