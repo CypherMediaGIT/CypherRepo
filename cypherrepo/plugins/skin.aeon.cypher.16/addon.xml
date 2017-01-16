@@ -2,7 +2,7 @@
 <addon
   id="skin.aeon.cypher.16"
   version="1.0"
-  name="Aeon Cypher"
+  name="Aeon Cypher 16"
   provider-name="BigNoid modded by Cypher">
 	<requires>
 		<import addon="xbmc.gui" version="5.10.0"/>

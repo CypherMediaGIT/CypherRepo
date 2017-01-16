@@ -13,7 +13,11 @@
 	</extension>
 </addon>
 
-<addon id="skin.aeon.17.cypher" version="0.1" name="Aeon Cypher 17" provider-name="Cypher">
+<addon 
+  id="skin.aeon.17.cypher" 
+  version="0.1" 
+  name="Aeon Cypher 17" 
+  provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.gui" version="5.12.0"/>
 		<import addon="script.grab.fanart" version="0.12.8"/>
@@ -22,7 +26,10 @@
 		<import addon="resource.images.studios.white" version="0.0.1"/>
 		<import addon="resource.images.recordlabels.white" version="0.0.1"/>
 	</requires>
-	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="0.75">
+	<extension 
+	point="xbmc.gui.skin" 
+	debugging="false" 
+	effectslowdown="0.75">
 		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
 		<res width="2560" height="1080" aspect="21:9" default="false" folder="1080i" />
 	</extension>
@@ -87,16 +94,6 @@
 		<description lang="vi">SKIN FOR KODI 17....Thiết kế lại hoàn toàn để tạo nên một phong cách hiện đại, trong khi đó vẫn duy trì một cảm giác Aeon cổ điển.</description>
 		<disclaimer lang="en_GB">Mouse control is supported, althoug not recommended. It may not work correctly in all cases.</disclaimer>
 		<platform>all</platform>
-		<license>CC BY-NC-SA 4.0</license>
-		<forum></forum>
-		<website></website>
-		<email></email>
-		<source></source>
-		<news></news>
-		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
-			</assets>
 	</extension>
 </addon>
 
