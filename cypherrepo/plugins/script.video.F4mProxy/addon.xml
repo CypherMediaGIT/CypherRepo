@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.video.F4mProxy" name="F4mProxy" version="2.6.8" provider-name="Shani">
+<addon id="script.video.F4mProxy" 
+	     name="F4mProxy" 
+	     version="2.8.6" 
+	     provider-name="Shani">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.requests" />
@@ -9,11 +12,6 @@
 		<provides>executable</provides>
   </extension>
 
-     <extension point="xbmc.addon.repository" name="shani repository">
-        <info compressed="false">https://offshoregit.com/Shani-08/main/addons.xml</info>
-        <checksum>https://offshoregit.com/Shani-08/main/addons.xml.md5</checksum>
-        <datadir zip="true">https://offshoregit.com/Shani-08/main/zips/</datadir>
-    </extension>
 
     
   <extension point="xbmc.addon.metadata">
