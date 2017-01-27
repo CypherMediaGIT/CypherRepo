@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.cypherspeed"
+<addon id="script.speedtestnet"
        name="Cypher Speed Tester"
        version="0.0.3"
        provider-name="Cypher / Josh.5">
