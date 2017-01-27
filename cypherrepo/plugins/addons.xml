@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addon id="script.speedtestnet"
+<addon id="script.cypherspeed"
        name="Cypher Speed Tester"
        version="0.0.3"
        provider-name="Cypher / Josh.5">
