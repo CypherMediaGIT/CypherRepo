@@ -22,8 +22,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Cypher Gaming</summary>
-    <description>Cypher Gaming... Please Have Chrome Browser installed on your system, download from playstore or from https://www.google.com/chrome/ Code used under the GNU GENERAL PUBLIC LICENSE Version 2, June 1991</description>
+    <summary>...Cypher Gaming... Please Have Chrome Browser installed on your system, download from playstore or from https://www.google.com/chrome/ <BR>For Windows or Mac Sytems Only!</summary>
+    <description>Cypher Gaming Code used under the GNU GENERAL PUBLIC LICENSE Version 2, June 1991</description>
     <platform>all</platform>
   </extension>
 </addon>
