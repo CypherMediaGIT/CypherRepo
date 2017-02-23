@@ -182,35 +182,6 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.cypherinter"
-       name="Cypher Interactive"
-       version="0.0.1"
-       provider-name="Cypher">
-  <requires>
-	<import addon="plugin.program.chrome.launcher" version="1.1.5"/>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>	
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>...Cypher Gaming... Please Have Chrome Browser installed on your system, download from playstore or from https://www.google.com/chrome/ <BR>For Windows or Mac Sytems Only!</summary>
-    <description>Cypher Gaming Code used under the GNU GENERAL PUBLIC LICENSE Version 2, June 1991</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 
 <addon id="plugin.program.cypherbuilds" name="Cypher Builds" version="1.0.0" provider-name="Cypher">
   <requires>
@@ -278,6 +249,35 @@
 		<forum></forum>
 		<source></source>
 	</extension>
+</addon>
+
+<addon id="plugin.video.cypherinter"
+       name="Cypher Interactive"
+       version="0.0.1"
+       provider-name="Cypher">
+  <requires>
+	<import addon="plugin.program.chrome.launcher" version="1.1.5"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" /> 
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>	
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>...Cypher Gaming... Please Have Chrome Browser installed on your system, download from playstore or from https://www.google.com/chrome/ <BR>For Windows or Mac Sytems Only!</summary>
+    <description>Cypher Gaming Code used under the GNU GENERAL PUBLIC LICENSE Version 2, June 1991</description>
+    <platform>all</platform>
+  </extension>
 </addon>
 
 <addon id="plugin.video.ProjectCypher"
@@ -615,4 +615,3 @@
 
 
 </addons>
-
