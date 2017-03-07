@@ -100,7 +100,7 @@
 
 <addon 
   id="skin.aeon.cypher" 
-  version="0.2.1" 
+  version="0.2" 
   name="Aeon Cypher 17" 
   provider-name="Cypher">
 	<requires>

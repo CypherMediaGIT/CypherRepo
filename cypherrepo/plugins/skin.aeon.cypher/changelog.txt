@@ -4,5 +4,4 @@ CYPHER
 
 0.2 FIXED SETTINGS ACCESS
 
-0.2.1 Fixed Brand & Information Screen Colour
 
