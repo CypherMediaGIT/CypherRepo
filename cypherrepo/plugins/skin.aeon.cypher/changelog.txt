@@ -4,4 +4,5 @@ CYPHER
 
 0.2 FIXED SETTINGS ACCESS
 
+0.2.1 Changed info colour background & Name branding
 
