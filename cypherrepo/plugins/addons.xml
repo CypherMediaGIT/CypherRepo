@@ -364,6 +364,23 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.cyphermovie16" name="Cypher Movies 16" version="1.0.0" provider-name="Cypher">
+  <requires>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Cypher Movies for Kodi 16 Based On Code By MettleKettle</summary>
+    <description lang="en">Cypher Movies for Kodi 16 Based On Code By MettleKettle</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.f4mTester" version="2.7.1" name="f4mTester" provider-name="Shani">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
