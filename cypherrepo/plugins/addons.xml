@@ -16,7 +16,7 @@
 
 <addon
   id="skin.aeon.cypher.16"
-  version="1.0"
+  version="1.0.1"
   name="Aeon Cypher"
   provider-name="BigNoid modded by Cypher">
 	<requires>
