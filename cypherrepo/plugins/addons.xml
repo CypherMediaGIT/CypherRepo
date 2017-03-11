@@ -346,24 +346,6 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.cyphermovie" name="Cypher Movies" version="1.0.1" provider-name="Cypher">
-  <requires>
-    <import addon="script.module.simplejson" version="3.3.0"/>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.urlresolver"  version="2.1.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">One click Movies By Cypher</summary>    
-		<description lang="en">One click Movies By Cypher, We do not host any of the files within this Addon, we are in no way affiliated with KODI, Based on Code by metalkettle</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.cyphermovie16" name="Cypher Movies 16" version="1.0.0" provider-name="Cypher">
   <requires>
     <import addon="script.module.simplejson" version="3.3.0"/>
@@ -375,8 +357,8 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Cypher Movies for Kodi 16 Based On Code By MettleKettle</summary>
-    <description lang="en">Cypher Movies for Kodi 16 Based On Code By MettleKettle</description>
+    <summary lang="en">Cypher Movies for Kodi 16 and 17 Based On Code By MettleKettle</summary>
+    <description lang="en">Cypher Movies for Kodi 16 and 17 Based On Code By MettleKettle</description>
     <platform>all</platform>
   </extension>
 </addon>
