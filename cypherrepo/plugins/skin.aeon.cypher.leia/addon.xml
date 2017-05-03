@@ -7,10 +7,10 @@
 	<requires>
 		<import addon="xbmc.gui" version="5.13.0"/>
 		<import addon="script.grab.fanart" version="0.12.8"/>
+		<import addon="script.skinshortcuts" version="1.0.16"/>
 		<import addon="service.library.data.provider" version="0.0.7"/>
 		<import addon="resource.images.studios.white" version="0.0.1"/>
 		<import addon="resource.images.recordlabels.white" version="0.0.1"/>
-		<import addon="script.skinshortcuts" version="1.0.16"/>
 	</requires>
 	<extension 
 	point="xbmc.gui.skin" 
