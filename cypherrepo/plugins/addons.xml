@@ -367,7 +367,6 @@
    </extension>
    </addon>
    
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.9anime.cypher"
        name="Cypher 9Anime"
        version="0.0.1"
