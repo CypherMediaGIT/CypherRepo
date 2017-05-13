@@ -1,5 +1,0 @@
-V2.0
-Added Vod and made addon more stable.Also fixed some dead Live sport links
-
-V1.0
-Initial Release

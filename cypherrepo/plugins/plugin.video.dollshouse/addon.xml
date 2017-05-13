@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.dollshouse" name="Cyphers Dolls House" version="1.0" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Live Streams From Dolls House Strip Club</summary>
+    <description>Live Streams From Dolls House Strip Club. General disclaimer: Cypher Media takes no responsibility for the content or reliability of the feeds. Cypher Media [B]Does Not[/B] host any of the feeds or Streams. Cypher Media Is in no way affilated with Kodi Foundation. Most of the Code from this addon is used under the GNU GENERAL PUBLIC LICENSE Version 2, June 1991</description>
+  </extension>
+</addon>
