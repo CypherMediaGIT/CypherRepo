@@ -1,0 +1,10 @@
+﻿0.0.3 - 01JAN17
+
+• Cypher Rebrand with sponsor information.
+0.0.2 - 01JAN17
+
+• Fix issue causing speedtest to only run once and then fail.
+• Fix issue with results not displaying correctly on all displays
+0.0.1 - 17SEP15
+
+• initial Release
