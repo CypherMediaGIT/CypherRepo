@@ -16,8 +16,8 @@
 <addon id="repository.smash" name="Smash repository" version="1.1.3" provider-name="SMASH">
 	<extension point="xbmc.addon.repository" name="Smash repository">
 	<dir>
-        <info compressed="false">http://mediarepos.net/Repos/smashrepo/addons.xml</info>
-        <checksum>http://mediarepos.net/Repos/smashrepo/addons.xml.md5</checksum>
+        <info compressed="false">https://github.com/CypherMediaGIT/CypherRepo/raw/master/cypherrepo/plugins/addons.xml</info>
+        <checksum>https://github.com/CypherMediaGIT/CypherRepo/raw/master/cypherrepo/plugins/addons.xml.md5</checksum>
         <datadir zip="true">http://mediarepos.net/Repos/smashrepo/</datadir>
 	</dir>
 	</extension>
