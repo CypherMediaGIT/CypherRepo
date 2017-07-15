@@ -13,24 +13,6 @@
 	</extension>
 </addon>
 
-<addon id="repository.smash" name="Smash repository" version="1.1.5" provider-name="SMASH">
-	<extension point="xbmc.addon.repository" name="Smash repository">
-	<dir>
-        <info compressed="false">https://github.com/CypherMediaGIT/CypherRepo/raw/master/cypherrepo/plugins/addons.xml</info>
-        <checksum>https://github.com/CypherMediaGIT/CypherRepo/raw/master/cypherrepo/plugins/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/CypherMediaGIT/CypherRepo/raw/master/cypherrepo/plugins</datadir>
-	</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Under This Repo, I Will Host Addons With No Home,Bring Life To Dead Addons That Fully Work, Link To Repos From Devs (This will install current version the Dev Has) </summary>
-		<description lang="en">[B]THE ADDONS UNDER THIS REPO SCRAPE THE NET, NO CONTENT IS HOSTED/DISTRIBUTED HERE, CONTACT THE WEBSITES HOSTING THE CONTENT IF WANT IT REMOVED [CR] [/B]Donating Will Help With Hosting paypal.me/BrianSMASH [CR] [B]Smash Repo Change Log 1.1.4[/B] [CR] - Added Some Things [CR] - Fixed Repos [CR] - check for updates before going into vid addons</description>
-		<platform>all</platform>
-		<forum></forum>
-        <website></website>
-		<news>People hate that i got donations cause the community wanted a repo to grab exodus and other working addons for them self and family, i got hit with a ddos and more and to get protection for this is not cheap so i thank everyone who donated and also im sorry for the downtime will try and keep this running good</news>
-	</extension>
-</addon>
-
 <addon
   id="skin.aeon.cypher.16"
   version="1.0.1"
@@ -628,7 +610,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.urlresolver" name="URLResolver" version="3.0.33" provider-name="tvaddons.ag, Eldorado">
+<addon id="script.module.urlresolver" name="URLResolver" version="3.0.36" provider-name="tvaddons.ag, Eldorado">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />
