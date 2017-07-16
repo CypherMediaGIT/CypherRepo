@@ -671,6 +671,27 @@
 	</assets>
 </addon>
 
+<addon id="plugin.video.salts" version="2.0.201" name="Stream All The Sources" provider-name="Cypher">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0"/>
+        <import addon="script.module.urlresolver" version="3.0.0"/>
+        <import addon="script.module.myconnpy" version="1.1.6" />
+        <import addon="script.module.tknorris.shared" version="0.0.19"/>
+        <import addon="script.module.six"/>
+        <import addon="script.module.dateutil"/>
+        <import addon="script.module.image_cache" optional="true" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+     <extension point="xbmc.service" library="service.py" start="startup"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>Last Version Made By Cypher</summary>
+        <description>Last Version Made By Cypher, Fixed Images Loading, it may take a while for images to show please wait..</description>
+        <platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="plugin.video.exodus" version="3.1.23" name="Exodus" provider-name="Exodus">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
@@ -714,28 +735,6 @@
 		<summary>Metadata for the Exodus Addon</summary>
 		<description>Metadata for Exodus are maintained separately to make distribution of the the addon itself easier/faster.</description>
 		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="plugin.video.salts" version="2.0.201" name="Stream All The Sources" provider-name="Cypher">
-    <requires>
-        <import addon="xbmc.python" version="2.19.0"/>
-        <import addon="script.module.urlresolver" version="3.0.0"/>
-        <import addon="script.module.myconnpy" version="1.1.6" />
-        <import addon="script.module.tknorris.shared" version="0.0.19"/>
-        <import addon="script.module.six"/>
-        <import addon="script.module.dateutil"/>
-        <import addon="script.module.image_cache" optional="true" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-     <extension point="xbmc.service" library="service.py" start="startup"/>
-    <extension point="xbmc.addon.metadata">
-        <summary>Last Version Made By Cypher</summary>
-        <description>Last Version Made By Cypher, Fixed Images Loading, it may take a while for images to show please wait..        
-        </description>
-        <platform>all</platform>
 	</extension>
 </addon>
 

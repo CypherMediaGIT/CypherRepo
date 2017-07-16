@@ -14,8 +14,7 @@
      <extension point="xbmc.service" library="service.py" start="startup"/>
     <extension point="xbmc.addon.metadata">
         <summary>Last Version Made By Cypher</summary>
-        <description>Last Version Made By Cypher, Fixed Images Loading, it may take a while for images to show please wait..        
-        </description>
+        <description>Last Version Made By Cypher, Fixed Images Loading, it may take a while for images to show please wait..</description>
         <platform>all</platform>
 	</extension>
 </addon>
