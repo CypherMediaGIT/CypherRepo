@@ -1,13 +1,5 @@
-[B]Version 2.0.201[/B]
-Cypher Media Take over Fixed Images and updated Scrapers
 
-
-
-
-
-
-
-
+[B]999999.0.201[/B]Final Version By Cypher
 [B]Version 2.0.195[/B]
 Take over addon from TK
 Update translations
