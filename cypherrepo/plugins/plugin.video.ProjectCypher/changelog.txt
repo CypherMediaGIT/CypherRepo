@@ -1,0 +1,10 @@
+Version 3.0.0
+    New zip and bug fixes, update to scrapers
+Version 2.0.2
+    server changed, bug fixes
+Version 2.0.1
+    some bug fixes
+Version 2.0.0
+    new resolvers
+Version 1.0.0
+    first relase
