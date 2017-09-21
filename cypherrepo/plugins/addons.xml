@@ -279,6 +279,38 @@
 </addon>
 
 
+<addon id="script.ProjectCypher.metadata" version="1.0.0" name="Project Cypher Metadata" provider-name="ProjectCypher">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the ProjectCypher</summary>
+		<description>Metadata for ProjectCypher are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.cypherstream" name="Cypher Live" version="0.0.1" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+	<import addon="script.module.urlresolver" />
+	<import addon="script.module.liveresolver"/>
+	<import addon="script.module.beautifulsoup4" />
+	<import addon="script.module.livestreamer" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Dependency Addon for Project Cypher</summary>
+    <description lang="en">Dependency Addon for Project Cypher</description>
+	<disclaimer lang="en">Dependency Addon for Project Cypher</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="3.0.2" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
@@ -320,38 +352,6 @@
 		<description>Themes for Project Cypher are maintained separately to make distribution of the the addon itself easier/faster.</description>
 		<platform>all</platform>
 	</extension>
-</addon>
-
-<addon id="script.ProjectCypher.metadata" version="1.0.0" name="Project Cypher Metadata" provider-name="ProjectCypher">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary>Metadata for the ProjectCypher</summary>
-		<description>Metadata for ProjectCypher are maintained separately to make distribution of the the addon itself easier/faster.</description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="script.cypherstream" name="Cypher Live" version="0.0.1" provider-name="Cypher">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.requests" />
-	<import addon="script.module.urlresolver" />
-	<import addon="script.module.liveresolver"/>
-	<import addon="script.module.beautifulsoup4" />
-	<import addon="script.module.livestreamer" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>all</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Dependency Addon for Project Cypher</summary>
-    <description lang="en">Dependency Addon for Project Cypher</description>
-	<disclaimer lang="en">Dependency Addon for Project Cypher</disclaimer>
-    <platform>all</platform>
-  </extension>
 </addon>
 
 <addon id="plugin.video.BBC3"
