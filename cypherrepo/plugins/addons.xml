@@ -319,8 +319,8 @@
 		<import addon="script.cypherstream" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
 		<import addon="script.module.pyxbmct" />
-		<import addon="script.module.urlresolver" />
-		<import addon="script.module.liveresolver"/>
+		<import addon="script.module.urlresolver" version="4.0.05" />
+		<import addon="script.module.liveresolver" version="0.1.49" />
 		<import addon="script.video.F4mProxy"/>
 		<import addon="plugin.video.f4mTester" />
 	</requires>
