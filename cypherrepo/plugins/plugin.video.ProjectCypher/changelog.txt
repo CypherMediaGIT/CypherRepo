@@ -1,2 +1,14 @@
-[B]0.0.1[/B] Tweaked Scrapers
-[B]0.0.1[/B] initial commit
+Version 3.0.4
+    Updated scrapers for movies and tv shows
+Version 3.03
+   Updated code to make streaming and live scrapers work
+Version 3.0.0
+    Changed code and added movie and tv shows
+Version 2.0.2
+    server changed, bug fixes
+Version 2.0.1
+    some bug fixes
+Version 2.0.0
+    new resolvers
+Version 1.0.0
+    first relase
