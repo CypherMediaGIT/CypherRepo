@@ -1,2 +1,5 @@
+[B]0.0.2[/B]
+- sly sports channels updated
+
 [B]0.0.1[/B]
 - Initial version
