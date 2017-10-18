@@ -1,3 +1,5 @@
+Version 3.0.6
+    Updated scrapers for movies and tv shows and fixed connection issue Some cosmetic changes
 Version 3.0.5
     Updated scrapers for movies and tv shows and fixed connection issue
 Version 3.0.4

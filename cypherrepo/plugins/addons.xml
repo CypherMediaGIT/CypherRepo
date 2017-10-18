@@ -291,32 +291,11 @@
 	</extension>
 </addon>
 
-<addon id="script.cypherstream" name="Cypher Live" version="0.0.2" provider-name="Cypher">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.requests" />
-	<import addon="script.module.urlresolver" />
-	<import addon="script.module.liveresolver"/>
-	<import addon="script.module.beautifulsoup4" />
-	<import addon="script.module.livestreamer" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>all</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Dependency Addon for Project Cypher</summary>
-    <description lang="en">Dependency Addon for Project Cypher</description>
-	<disclaimer lang="en">Dependency Addon for Project Cypher</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="3.0.5" provider-name="Cypher">
+<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="3.0.6" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.ProjectCypher.artwork" />
 		<import addon="script.ProjectCypher.metadata" />
-		<import addon="script.cypherstream" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
 		<import addon="script.module.pyxbmct" />
 		<import addon="script.module.urlresolver" version="4.0.05" />
@@ -342,7 +321,7 @@
 	</extension>
 </addon>
 
-<addon id="script.ProjectCypher.artwork" version="1.0.0" name="Project Cypher Artwork" provider-name="Cypher">
+<addon id="script.ProjectCypher.artwork" version="1.0.1" name="Project Cypher Artwork" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
