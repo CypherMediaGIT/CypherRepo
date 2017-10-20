@@ -1,4 +1,6 @@
-Version 3.0.6
+Version 3.0.8
+    Fixed Error in code
+Version 3.0.7
     Fixed streaming and updates streaming module
 Version 3.0.6
     Updated scrapers for movies and tv shows and fixed connection issue Some cosmetic changes
