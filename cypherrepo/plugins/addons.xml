@@ -310,11 +310,50 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="3.0.8" provider-name="Cypher">
+<addon id="script.cypher.pairwith.launcher"
+  name="Pair ME UP"
+  version="1.0" 
+  provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Cypher Pairing for hosts</summary>
+    <description lang="en">Pairing for hosts</description>
+	<disclaimer>Pairing for hosts</disclaimer>
+  </extension>
+</addon>
+
+<addon id="script.cypher.pairwith"
+  name="Cypher Pair Hosts"
+  version="1.0" 
+  provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Cypher Pairing for hosts</summary>
+    <description lang="en">Cypher Pairing for hosts</description>
+	<disclaimer>Cypher Pairing for hosts</disclaimer>
+  </extension>
+</addon>
+
+<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="3.0.9" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.ProjectCypher.artwork" />
 		<import addon="script.ProjectCypher.metadata" />
+		<import addon="script.cypher.pairwith" />
+        <import addon="script.cypher.pairwith.laucnher" />
+		<import addon="script.cypherstream" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
 		<import addon="script.module.pyxbmct" />
 		<import addon="script.module.urlresolver" version="4.0.05" />

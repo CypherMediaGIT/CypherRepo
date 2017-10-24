@@ -1,3 +1,5 @@
+Version 3.0.9
+    Added host pairing in movies and tv section
 Version 3.0.8
     Fixed Error in code
 Version 3.0.7
