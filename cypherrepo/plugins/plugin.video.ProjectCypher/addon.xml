@@ -5,7 +5,7 @@
 		<import addon="script.ProjectCypher.artwork" />
 		<import addon="script.ProjectCypher.metadata" />
 		<import addon="script.cypher.pairwith" />
-        <import addon="script.cypher.pairwith.laucnher" />
+        <import addon="script.cypher.pairwith.launcher" />
 		<import addon="script.cypherstream" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
 		<import addon="script.module.pyxbmct" />
