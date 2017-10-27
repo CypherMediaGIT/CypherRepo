@@ -1,0 +1,168 @@
+v0.5.36
+- added moviewatcher
+- added freedownload
+- added UKTVPlay
+- added dl3
+- fixed Dizi720
+- tweaked thewatchseries
+- tweaked fullmovies24
+- fixed UltraMovie
+- fixed hddizi
+v0.5.35
+- added oneonline
+- added serieswatch
+- added streamthis
+- tweaked Yesmovies
+- some proxies fixed (thanks Dandy)
+v0.5.34
+- removed streamhd
+- removed watchepisodes
+- fixed Yesmovies
+- Tweaked Watchcartoon
+- added iamdark
+v0.5.33
+- removed 4kmovies
+- removed streamdream
+v0.5.32
+- Tweaks to a number of scrapers
+- added dudmovies
+- added movies4u
+- removed 4kmovies
+- fixed 1onethousand
+- fixed CartoonHd
+v0.5.31
+- added 4kmovies
+- added mydownloadtube
+- fixed 1movies
+- fixed dizi720
+- fixed Flienx
+v0.5.30
+- fixed some broken scrapers
+- added thewatchseries
+- added project free tv
+- removed 123 hulu
+- removed Moviegrabber
+- removed Kingmovies
+- removed quickmovies
+v0.5.29
+- small scraper tweaks
+- added 2 more scrapers
+v0.5.28
+- fixed m4u
+- fixed moviegrabber
+- fixed KingMovies
+- added 8 new scrapers
+- added 2 new Debrid scrapers
+- added 2 new music scrapers
+- Huge thank you to Origin, Apprentice, Dandy and everyone involved with NaN Scrapers
+v0.5.27
+- fix older kodi versions on android (no set compression on 2.6)
+v0.5.26
+- added a few RD scrapers (converted from elysium)
+- fixed/improved a few scrapers
+- respects timeout parameter now (throws error on timeout for non dialog methods)
+
+v0.5.25
+- added yesmovies
+- added gostream
+- improved m4u
+
+v0.5.24
+- removed broken scrapers
+- added QuickMovies
+- added KingMovies
+- added MovieGrabber
+- added Watchfrees
+- fixed dizi720
+- Thank You to all involved with NaN Scraper Project
+
+v0.5.22
+- fixed solar
+
+v0.5.21
+- corrected addon.xml
+
+v0.5.20
+- updated m4ufree
+- updated pubfilm
+
+v0.5.19
+- corrected indent
+- removed misplaced file
+
+v0.5.18
+- updated m4ufree (thanks ARB)
+- updated hostedlink
+
+v0.5.17
+- updated m4ufree
+
+v0.5.16
+- removed solar
+- added cinemabox (thx ard)
+- fixed link bug in animetoon
+
+v0.5.15
+- fixed most existing scrapers
+- improved some scrapers
+
+v0.5.12
+- new optional parameter: enable_debrid
+- added debrid capabilities to alluc scraper
+- add calling addons icon to with_dialog functions
+- bugfixes
+
+v0.5.11
+- removed 123moviescraper at md's request
+- fixed some scrapers
+- added bobby, alluc and solar scrapers (thanks shism)
+- new optional check_url parameter to scrape_movie_with_dialog and scrape_episode_with_dialog to weed out some of the dead links
+
+v0.5.10
+- fix 123movie scraper (thx to md's code for inspiration)
+
+v0.5.9
+- disabled cyberreel and watchseries for now (massive slowdown)
+- disabled yabanci scraper for now (site down)
+- add baseurl settings for some scrapers
+- disabled genvideo scraper (links on site down)
+- fixed scrapers
+- expanded the search capabilities of some scrapers
+
+v0.5.8
+- disabled watch5s for now
+- small bugfix
+
+v0.5.7
+- fixed scrapers
+- added cloudflare module
+- added more scrapers (thanks origin)
+- fixed other small bugs
+
+
+v0.5.6
+added sort function to with_dialog functions
+updated proxy-site list
+
+v0.5.5
+updated cartoon scrapers
+added ability to exlude scrapers
+
+v0.5.4
+added scrapers (thanks origin for some of them)
+added with dialog functions
+changed episode scrape function signature
+
+v0.5.3
+fixed error in title handling
+
+v0.5.2
+fixed scrapers
+added onemusic
+
+v0.5.1
+added watchfree scraper
+small change to primewire scraper
+
+v0.5.0
+beta release, here be dragons
