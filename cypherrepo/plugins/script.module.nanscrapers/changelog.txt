@@ -1,3 +1,21 @@
+v0.5.37
+- added Monster
+- added enet24doc
+- added onyx
+- added dlvaio
+- added movieserieshd
+- added loado
+- added ten80
+- added dlfile
+- added dlfpro
+- added filmpro
+- fixed movies4u
+- fixed rlshd
+- removed YTS Movies
+- removed Dudmovies
+- removed 1onethousand
+- removed Streamhd
+
 v0.5.36
 - added moviewatcher
 - added freedownload
