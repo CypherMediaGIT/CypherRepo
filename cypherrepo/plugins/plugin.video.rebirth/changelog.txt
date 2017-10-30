@@ -1,2 +1,34 @@
+-1.0.1
+ADDED
+Playlist Section
+Hallmark
+Feelgood
+DC
+Marvel Cinematic Universe
+Disney
+Upcoming Disney
+Heroic Bloodshed 
+Family
+Musicals
+World Cinema
+Weepy Movies
+Pixar
+Pixar Shorts
+DreamWorks
+
+Movies section
+Season Holidays Movies
+-New Years
+-Easter
+-Halloween
+-Thanks Giving
+-Christmas
+
+Fixed Great Directors
+ADDED
+-Ridley Scott
+-Robert Rodriguez
+-Stanley Kubrick
+
 - 1.0.0
 Initial version

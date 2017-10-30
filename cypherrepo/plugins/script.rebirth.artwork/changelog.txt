@@ -1,5 +1,5 @@
-[B]1.0.2[/B]
-- Compressed Images
+-1.0.1
+Added Images for Added Directors
 
-[B]1.0.0[/B]
-- Initial version
+-1.0.0
+Initial version
