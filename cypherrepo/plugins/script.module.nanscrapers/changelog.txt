@@ -1,3 +1,36 @@
+v0.5.41
+- added Cartoonson
+- added HollyMovieHD
+- added watchstream
+- added filmapik
+- added moviefullhd
+- added E24Docs
+- added hasthd
+- added cooltv
+- added indexer
+- fixed mydownloadtube
+- fixed Flenix
+- fixed movies4u
+- fixed movieflix
+- fixed Streamhd
+- fixed Vumoo
+- fixed mfree
+- fixed projectfree
+- tweaked thewatchseries
+- tweaked Yesmovies
+- tweaked CartoonHd
+- tweaked movies321
+- tweaked joymovies 
+- removed ten80p
+- removed Ultramovie
+- removed movies123
+- removed Bmoviez
+- removed movieflix
+- removed pelispedia
+- added icon
+- added fanart
+v0.5.40
+- addon.xml updated to fix verison issue with last update. 
 v0.5.37
 - added Monster
 - added enet24doc
