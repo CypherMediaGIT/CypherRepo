@@ -1001,7 +1001,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.cyphersbuilds" name="Cypher's Builds Wizard" version="1.0.0" provider-name="Cypher">
+<addon id="plugin.program.cyphersbuilds" name="Cypher's Builds Wizard" version="1.0.1" provider-name="Cypher">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
