@@ -1,3 +1,59 @@
+
+v0.5.44
+- added OnlineHDMovies
+- Fixed Serieswatch 
+- fixed ten80p
+- fixed series cravings
+- fixed Filmaipk
+- removed gmovies
+v0.5.43
+- fixed hubmovie
+- fixed Flenix
+v0.5.42
+- added hdpopcorn
+- added BobMovies
+- added WMO
+- added moviesco
+- added oceanof
+- added dudmovies
+- added seriescravings
+- added tv scrape to mydownloadtube
+- added more proxies
+- added extramovies
+- added filmxy
+- added zoocinema
+- added Twoddl
+- added iextv
+- added hevc
+- added onlinehd
+- added uwatchfree
+- added watch32
+- added Hubmovie
+- added Vex
+- added BnwMovies
+- fixed TV Release
+- fixed freedownload
+- fixed hddizi
+- fixed thewatchseries
+- fixed CartoonHd 
+- fixed ten80p
+- fixed HollyMovieHD 
+- tweaked Wrzcraft
+- tweaked beemp3
+- tweaked mp3clan
+- tweaked ReleaseBB
+- tweaked Watchcartoon
+- removed mfree
+- removed onemusic
+- removed Loado
+- removed Filmpro
+- removed E24Docs
+- removed dizi720
+- removed watchstreams
+- removed Onyx
+- removed Fullmovies24
+- removed moviefullhd
+- removed ProjectFree
 v0.5.41
 - added Cartoonson
 - added HollyMovieHD
