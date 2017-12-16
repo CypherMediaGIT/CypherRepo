@@ -845,7 +845,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.rebirth" version="1.0.2" name="Rebirth" provider-name="Cypher">
+<addon id="plugin.video.rebirth" version="1.0.3" name="Rebirth" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.rebirth.artwork" version="1.0.0" />
@@ -902,7 +902,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.nanscrapers" name="NaN Scrapers" version="0.5.44" provider-name="Team NaN">
+<addon id="script.module.nanscrapers" name="NaN Scrapers" version="0.5.45" provider-name="Team NaN">
         <requires>
                 <import addon="xbmc.python" version="2.1.0"/>
                 <import addon="script.module.beautifulsoup" version="3.2.1"/>

@@ -1,4 +1,20 @@
-
+v0.5.45
+- added sockshare
+- added ionlinemovies
+- added full4movies
+- added enable/disable scrapers in settings
+- fixed 321moviescc
+- fixed mydownloadtube 
+- fixed Oceanof 
+- fixed Vumoo 
+- fixed zoocinema
+- fixed Watchstreams
+- fixed Hdpopcorn 
+- fixed seriescravings
+- fixed gostream
+- removed streamthis
+- removed onlinehdmovies 
+- removed streamhd
 v0.5.44
 - added OnlineHDMovies
 - Fixed Serieswatch 
