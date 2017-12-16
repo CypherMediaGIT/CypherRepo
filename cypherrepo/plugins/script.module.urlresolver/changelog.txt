@@ -1,15 +1,9 @@
-[B]Version 4.0.09 (Nov 08, 2017)[/B]
+[B]Version 4.0.15 (Dec 7, 2017)[/B]
 - Code Base Changes:
-    - Pairing added for flashx.tv
+    - None
 - Resolvers Added:
-    - vidstore.me
-    - ocloud.stream
+    - None
 - Resolvers Fixed/Updated:
-    - flashx
-    - speedvid
-    - oload
-    - mcloud
-    - vidtodo
-    - gvideo
+    - AllDebrid (Eldorado)
 - Languages Added/Updated
     - None
