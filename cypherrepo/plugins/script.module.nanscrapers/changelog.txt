@@ -1,8 +1,30 @@
+v0.5.46
+- added cyberreel 
+- added onlinestream
+- added darewatch
+- added moviesfile
+- added tvmovieflix
+- added unblocked url for watchfree
+- added CinemaMega
+- fixed Beemp3
+- fixed hollymovie
+- fixed Twoddl
+- fixed watchepisodes
+- fixed filmxy
+- fixed Cinemamk
+- fixed filmxy
+- fixed hevc
+- removed cartoonson
+- removed watchepisodeseries
+- removed full4movies 
+- removed iextv
+- removed onlinehd
+- removed zoocinema
+- removed sockshare
 v0.5.45
 - added sockshare
 - added ionlinemovies
 - added full4movies
-- added enable/disable scrapers in settings
 - fixed 321moviescc
 - fixed mydownloadtube 
 - fixed Oceanof 
@@ -10,8 +32,6 @@ v0.5.45
 - fixed zoocinema
 - fixed Watchstreams
 - fixed Hdpopcorn 
-- fixed seriescravings
-- fixed gostream
 - removed streamthis
 - removed onlinehdmovies 
 - removed streamhd
