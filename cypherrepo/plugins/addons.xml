@@ -418,7 +418,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.cyphertv" name="Cypher TV" version="1.3" provider-name="Cypher">  
+<addon id="plugin.video.cyphertv" name="Cypher TV" version="1.4" provider-name="Cypher">  
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>    
 		<import addon="script.module.urlresolver"  version="2.1.2"/>
