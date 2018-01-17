@@ -1024,44 +1024,6 @@
   </extension>
 </addon>
 
-<addon id="script.module.transistortv" name="Transistor Common Libraries" version="1.0.0" provider-name="Cypher">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Credit to TKnorris</summary>
-	</extension>
-</addon>
 
-<addon id="plugin.video.transistortv" version="1.0.0" name="Cyphers Transistor Movies and Television" provider-name="Cypher">
-    <requires>        
-		<import addon="xbmc.python" version="2.19.0"/>
-        <import addon="script.module.pyxbmct" version="1.1.4"/>
-        <import addon="script.module.urlresolver" version="3.0.0"/>
-		<import addon="script.module.metahandler" version="1.0.0" />
-		<import addon="script.module.futures"/>
-        <import addon="script.module.myconnpy" version="1.1.6" />
-        <import addon="script.module.transistortv" version="1.0.0" />
-		<import addon="script.module.requests" />
-        <import addon="script.module.six"/>
-        <import addon="script.module.dateutil"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="transistor.py">
-        <provides>video</provides>
-    </extension>
-     <extension point="xbmc.service" library="service.py" start="startup"/>
-    <extension point="xbmc.addon.metadata">
-        <summary>Stream video from many difference sources</summary>
-        <description>This addon uses trakt.tv for most show and movie meta data and uses a variety of websites for host sources
-<br>This addon is developed and supported by [COLOR cyan]Cypher Media[/COLOR]
-<br>Original Credit goes to TKnorris for creating such a great addon that this addon is based on.        
-        </description>
-        <platform>all</platform>
-        <website></website>
-		<forum></forum>
-	</extension>
-</addon>
 
 </addons>
