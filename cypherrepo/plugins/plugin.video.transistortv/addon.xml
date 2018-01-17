@@ -1,4 +1,5 @@
-<addon id="plugin.video.transistortv" version="1.0.0" name="Cyphers Transistor Movies and Television" provider-name="Cypher">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.transistortv" name="Cyphers Transistor Movies and Television" version="1.0.0" provider-name="Cypher">
     <requires>        
 		<import addon="xbmc.python" version="2.19.0"/>
         <import addon="script.module.pyxbmct" version="1.1.4"/>
@@ -18,11 +19,9 @@
     <extension point="xbmc.addon.metadata">
         <summary>Stream video from many difference sources</summary>
         <description>This addon uses trakt.tv for most show and movie meta data and uses a variety of websites for host sources
-<br>This addon is developed and supported by [COLOR cyan]Cypher Media[/COLOR]
-<br>Original Credit goes to tknorris for creating such a great addon that this addon is based on.        
+		This addon is developed and supported by [COLOR cyan]Cypher Media[/COLOR]
+		Original Credit goes to tknorris for creating such a great addon that this addon is based on.        
         </description>
         <platform>all</platform>
-        <website></website>
-		<forum></forum>
 	</extension>
 </addon>
