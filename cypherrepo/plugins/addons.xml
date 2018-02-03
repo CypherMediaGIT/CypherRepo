@@ -298,7 +298,7 @@
 	</extension>
 </addon>
 
-<addon id="script.cypherstream" name="Cypher Live" version="0.0.3" provider-name="Cypher">
+<addon id="script.cypherstream" name="Cypher Live" version="0.0.4" provider-name="Cypher">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.requests" />
