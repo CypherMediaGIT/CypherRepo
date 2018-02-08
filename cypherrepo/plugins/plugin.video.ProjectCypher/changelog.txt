@@ -1,3 +1,5 @@
+Version 4.0.01
+    Updated Scrapers for New 24/7 section to work better
 Version 4.0.0
     Re-Release as server was deleted so i started again
 Version 3.0.9
