@@ -1,7 +1,141 @@
-v0.5.47
-- 
+v0.5.51
+resolveurl no longer optional
+v0.5.50
+
+switched out urlresolver for resolveurl
+
+Added
+- Movie25org
+- Hugemoviesdb
+- kakitube
+- couchturner
 
 Fixed
+- mvlinks
+- mydownloadtube 
+- releasebb
+- file pursuit 
+- watch32hd
+- PutlockerHD 
+- watchmoviesforever 
+- iextv 
+- zoocinema 
+- openloadmovie
+- freemusic
+- cartoonhd
+- wmz
+- filmaipk
+- fanmovieshow
+- ten80
+- openloadmovie
+- movietv
+- moviewatcher
+- watchstream
+- hollymovie
+
+Removed 
+- Sceper
+- Uwatchfree 
+- hdmoviewatch9
+- youmovies
+- flenix
+- playdk
+- hddizi
+- dudmovies
+- cinemamkv
+- solarmovie
+- oneonline
+- ddl valley
+- filmxy
+- mydownloadtube
+- imdark
+- Iwannawatch
+- Hasthd
+
+v0.5.49
+
+Added
+- dudmovies 
+- filmfrantic 
+- Coolmoviezone 
+- One23Movies
+- SolarMovies
+- Playdk 
+- new proxy.py 
+
+Fixed 
+- openloadmovies 
+- thewatchseries
+- watchepisodes 
+- carthd
+- mvlinks
+- ImDark
+- Watchcartoon
+- movies321
+- zoocinema
+- Watchstream
+- ddlvalley 
+- file Pursuit 
+- Cinemamkv 
+- allmovies4
+- bnw
+
+
+
+V0.5.48
+
+Added
+- hdmovieswatch9
+- iwannawatch (blocked UK)
+- azmovies
+- youmovies
+- openloadmovies
+- myvideolinks
+- allmovies4
+
+Fixed
+- extramovies (TV)
+- mydownloadtube (TV)
+- primewire
+- zoocinema
+- bnw
+- iextv
+- movie4u
+- filepursuit
+- ten80p
+- hollymoviehd
+- BobMovies
+- uwatchfree
+- watchfrees
+- thewatchseries 
+- hddizi 
+- oneonline (movies)  
+- movies321
+
+Removed
+- tvmovieflix
+- watchmoviesforever
+- watchmoviesonline
+- series9
+- Fullmovies24
+- 1movies
+- Fanmoviesshow
+- Cinemamkv
+- iextv
+- joymovies
+- Hevc Bluray
+- shockshare
+- watchstream
+- onemovie
+- serieswatch 
+- beemp3
+- mp3clan
+- filmxy 
+
+
+v0.5.47
+
+- Fixed
 - iextv
 - animetoon
 - hddizi
@@ -91,6 +225,7 @@ Removed
 - series-cravings
 
 - uktv play
+
 v0.5.46
 
 
@@ -142,6 +277,7 @@ Removed
 - zoocinema
 
 - sockshare
+
 v0.5.45
 
 
@@ -175,6 +311,7 @@ Removed
 - onlinehdmovies 
 
 - streamhd
+
 v0.5.44
 
 
@@ -194,6 +331,7 @@ Fixed
 
 Removed 
 - gmovies
+
 v0.5.43
 
  
@@ -201,6 +339,7 @@ Fixed
 - hubmovie
 
 - Flenix
+
 v0.5.42
 
  
@@ -295,6 +434,7 @@ Removed
 - moviefullhd
 
 - ProjectFree
+
 v0.5.41
 
 
@@ -362,9 +502,11 @@ Removed
 Added 
 - icon
  and  fanart 
+
 v0.5.40
 
 - addon.xml updated to fix verison issue with last update. 
+
 v0.5.37
 
 - Monster
@@ -403,6 +545,7 @@ Removed
 
 - Streamhd
 
+
 v0.5.36
 
  
@@ -426,6 +569,7 @@ Fixed
 - UltraMovie
 
 - hddizi
+
 v0.5.35
  
 
@@ -441,6 +585,7 @@ Fixed
 - Yesmovies
  
 - some proxies fixed (thanks Dandy)
+
 v0.5.34
 
 
@@ -458,6 +603,7 @@ Fixed
  
 Added 
 - iamdark
+
 v0.5.33
 
  
@@ -465,6 +611,7 @@ Removed
 - 4kmovies
 
 - streamdream
+
 v0.5.32
 
  
@@ -482,6 +629,7 @@ Fixed
 - 1onethousand
 
 - CartoonHd
+
 v0.5.31
  
 Added 
@@ -515,11 +663,13 @@ Removed
 - Kingmovies
 
 - quickmovies
+
 v0.5.29
 
 
 Added 
 - 2 more scrapers
+
 v0.5.28
 
  
@@ -552,6 +702,7 @@ Fixed
 - a few scrapers
 
 - respects timeout parameter now (throws error on timeout for non dialog methods)
+
 
 v0.5.25
 
@@ -599,6 +750,7 @@ v0.5.19
 Removed 
 - misplaced file
 
+
 v0.5.18
 
  
@@ -607,9 +759,11 @@ Fixed
 
 - hostedlink
 
+
 v0.5.17
 
 - m4ufree
+
 
 v0.5.16
 - 
@@ -630,6 +784,7 @@ v0.5.15
 
 - improved some scrapers
 
+
 v0.5.12
 
 
@@ -641,6 +796,7 @@ New optional parameter:
 - add calling addons icon to with_dialog functions
  
 - #bugfixes
+
 
 v0.5.11
 
@@ -667,6 +823,7 @@ v0.5.10
 
 Fixed
 - 123movie scraper (thx to md's code for inspiration)
+
 
 v0.5.9
 
@@ -706,11 +863,13 @@ Stuff
 - fixed other small bugs
 
 
+
 v0.5.6
 - 
 added sort function to with_dialog functions
 - 
 updated proxy-site list
+
 
 v0.5.5
 - 
@@ -729,16 +888,19 @@ v0.5.3
 
 - fixed error in title handling
 
+
 v0.5.2
 - 
 fixed scrapers
 added onemusic
+
 
 v0.5.1
 - 
 added watchfree scraper
 - 
 small change to primewire scraper
+
 
 v0.5.0
 beta release, here be dragons
