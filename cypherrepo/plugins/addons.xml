@@ -460,7 +460,7 @@
    
 <addon id="plugin.video.9anime.cypher"
        name="Cypher 9Anime"
-       version="0.0.1"
+       version="0.0.2"
        provider-name="Cypher">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
