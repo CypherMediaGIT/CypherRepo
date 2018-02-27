@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="4.0.1" provider-name="Cypher">
+<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="4.0.2" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.ProjectCypher.artwork" />
@@ -22,6 +22,10 @@
 		<import addon="script.cypher.pairwith" />
         <import addon="script.cypher.pairwith.launcher" />
 		<import addon="script.cypherstream" />
+		<import addon="script.module.cyphersolid" />
+		<import addon="script.module.cypherswift" />
+		<import addon="script.module.cypheruktvnow" />
+		<import addon="script.module.cypherustvnow" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
 		<import addon="script.module.pyxbmct" />
 		<import addon="script.module.urlresolver" version="4.0.05" />
@@ -1061,6 +1065,98 @@
         </description>
         <platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="script.module.cyphersolid" name="Cypher IPTV Svr.1" version="0.1" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb"></summary>
+    <description lang="en_gb"></description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="script.module.cypherswift" name="Cypher IPTV Svr.2" version="0.1" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.livestreamer" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb"></summary>
+    <description lang="en_gb"></description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="script.module.cypheruktvnow" name="UKTVNOW Streams" version="0.1" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.livestreamer" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb"></summary>
+    <description lang="en_gb"></description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="script.module.cypherustvnow" name="USTVNOW Streams" version="0.1" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.pyamf" />
+    <import addon="script.module.livestreamer" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb"></summary>
+    <description lang="en_gb"></description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
 </addon>
 
 </addons>

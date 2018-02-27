@@ -1,4 +1,6 @@
-Version 4.0.01
+Version 4.0.2
+    Added modules for IPTV
+Version 4.0.1
     Updated Scrapers for New 24/7 section to work better
 Version 4.0.0
     Re-Release as server was deleted so i started again

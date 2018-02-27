@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="4.0.1" provider-name="Cypher">
+<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="4.0.2" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.ProjectCypher.artwork" />
@@ -8,6 +8,10 @@
 		<import addon="script.cypher.pairwith" />
         <import addon="script.cypher.pairwith.launcher" />
 		<import addon="script.cypherstream" />
+		<import addon="script.module.cyphersolid" />
+		<import addon="script.module.cypherswift" />
+		<import addon="script.module.cypheruktvnow" />
+		<import addon="script.module.cypherustvnow" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
 		<import addon="script.module.pyxbmct" />
 		<import addon="script.module.urlresolver" version="4.0.05" />
