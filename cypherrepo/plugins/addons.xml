@@ -249,9 +249,9 @@
   </extension>
 </addon>
 
-<addon id="script.speedtestnet"
+<addon id="script.cypher.speedtestnet"
        name="Cypher Speed Tester"
-       version="0.0.3"
+       version="1.0"
        provider-name="Cypher / Josh.5">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
