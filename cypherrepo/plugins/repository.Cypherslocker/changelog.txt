@@ -1,3 +1,5 @@
+[B]Cyphers Locker V1.0.3[/B]
+- FIX FOR FAILED INSTALLS
 [B]Cyphers Locker V1.0.1[/B]
 - Initial version
 
