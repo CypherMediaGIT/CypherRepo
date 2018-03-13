@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="4.0.2" provider-name="Cypher">
+<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="4.0.3" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.ProjectCypher.artwork" />
@@ -25,6 +25,7 @@
 		<import addon="script.module.cypherswift" />
 		<import addon="script.module.cypheruktvnow" />
 		<import addon="script.module.cypherustvnow" />
+		<import addon="script.module.laola1free" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
 		<import addon="script.module.pyxbmct" />
 		<import addon="script.module.urlresolver" version="4.0.05" />
