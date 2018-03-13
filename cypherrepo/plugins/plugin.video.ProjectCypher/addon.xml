@@ -8,7 +8,6 @@
 		<import addon="script.cypher.pairwith" />
         <import addon="script.cypher.pairwith.launcher" />
 		<import addon="script.cypherstream" />
-		<import addon="script.module.cyphersolid" />
 		<import addon="script.module.cypherswift" />
 		<import addon="script.module.cypheruktvnow" />
 		<import addon="script.module.cypherustvnow" />
