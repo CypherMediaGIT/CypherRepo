@@ -1257,4 +1257,22 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
 </addon>
 
+<addon id="script.module.cyphernettv" name="Cyphers NetTV" version="1.0" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.pyamf" />
+    <import addon="script.module.livestreamer" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="cyphernettv.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Project Cyphers Dependency Addon</summary>
+    <description lang="en">Project Cyphers Dependency Addon</description>
+	<disclaimer lang="en">Project Cyphers Dependency Addon</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 </addons>
