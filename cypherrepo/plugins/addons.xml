@@ -797,12 +797,12 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.rebirth" version="1.0.6" name="Rebirth" provider-name="Cypher">
+<addon id="plugin.video.rebirth" version="1.0.7" name="Rebirth" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.rebirth.artwork" version="1.0.0" />
 		<import addon="script.rebirth.metadata" version="1.0.0" />
-                <import addon="script.module.urlresolver"/>
+                <import addon="script.module.resolveurl" />
                 <import addon="script.module.metahandler"/>
                 <import addon="script.module.requests"/>
                 <import addon="script.module.beautifulsoup"/>
