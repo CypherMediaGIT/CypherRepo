@@ -10,7 +10,7 @@
                 <import addon="script.module.beautifulsoup"/>
                 <import addon="script.module.schism.common"/>
                 <import addon="script.module.futures"/>
-                <import addon="script.module.nanscrapers" version="0.5.5" />
+                <import addon="script.module.universalscrapers" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="Rebirth.py">
 		<provides>video</provides>
