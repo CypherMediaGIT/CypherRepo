@@ -1,4 +1,4 @@
-[B]Cyphers Locker V1.0.5[/B]
+[B]Cyphers Locker V1.0.6[/B]
 - update for additional repos
 [B]Cyphers Locker V1.0.3[/B]
 - FIX FOR FAILED INSTALLS
