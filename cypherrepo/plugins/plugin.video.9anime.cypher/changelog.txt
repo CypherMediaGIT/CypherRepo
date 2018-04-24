@@ -1,3 +1,6 @@
+v. 0.0.3
+- Fix code to pull in episode and sort them from one piece
+
 v. 0.0.2
 - Fix for 9Anime Grabber
 , Fixes for new website design
