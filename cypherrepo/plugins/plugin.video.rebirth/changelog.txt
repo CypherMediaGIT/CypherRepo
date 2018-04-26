@@ -1,3 +1,6 @@
+-2.0.0
+Live TV Added
+
 -1.0.8
 Update to fix Real Debrid
 
