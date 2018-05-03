@@ -1439,5 +1439,19 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
 		<news></news>
 	</extension>
 </addon>
+
+<addon id="script.cypherlogemailer" name="Cyphers Kodi Log Emailer" version="0.0.1" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Cyphers Kodi Log Emailer</summary>
+    <description lang="en">Cyphers Kodi Log Emailer</description>
+    <platform>all</platform>
+  </extension>
+</addon>
 	
 </addons>
