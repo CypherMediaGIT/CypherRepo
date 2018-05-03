@@ -1453,5 +1453,22 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
     <platform>all</platform>
   </extension>
 </addon>
+
+<addon id="plugin.program.cyphers-upd" name="Addons and Repos Updater" version="1.0" provider-name="Cypher">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Update addons and repos in one click</summary>
+        <language>English</language>
+	<description>Update addons and repos in one click</description>
+    <disclaimer>Update addons and repos in one click</disclaimer>
+    <platform>all</platform>
+    </extension>
+</addon>
 	
 </addons>
