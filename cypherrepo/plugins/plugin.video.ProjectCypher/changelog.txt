@@ -1,3 +1,7 @@
+Version 4.0.5
+    Added module for Mobdro
+    Fixed Scrapers (Thanks Kal-el)
+    addon speed increase
 Version 4.0.4
     Added modules for Net.tv
 Version 4.0.3
