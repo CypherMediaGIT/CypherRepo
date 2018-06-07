@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.yatp"
+  version="3.3.2"
+  name="Yet Another Torrent Player"
+  provider-name="Roman V.M.">
+<requires>
+  <import addon="xbmc.python" version="2.19.0"/>
+  <import addon="script.module.requests" version="2.6.0"/>
+  <import addon="script.module.simpleplugin" version="1.10.0"/>
+  <import addon="script.module.libtorrent" version="1.0.9"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.service" library="server.py" start="[login|startup]"/>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Yet Another Torrent Player</summary>
+  <description lang="en">A torrent client that allows to play video torrents
+    while downloading them in the background.</description>
+  <platform>all</platform>
+</extension>
+</addon>
