@@ -1,4 +1,7 @@
-﻿Version 1.0.1 
+﻿Version 1.0.2
+-Updated for server change, Added code for downloads change on site
+
+Version 1.0.1 
 -Updated for server change, Removed Trailers, Added the 2.5 Death Note The New Generation, A Webseries placed between DN 2 AND 3.
 
 Version 1.0.0 
