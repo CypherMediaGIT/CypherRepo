@@ -1655,5 +1655,22 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
     <platform>all</platform>
   </extension>
 </addon>	
+
+<addon id="script.module.dat1guy.shared" version="1.0.8" name="dat1guy's Shared Methods" provider-name="dat1guy">
+  <requires>
+    <import addon="xbmc.python" version="2.24.0" />
+    <import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Collection of shared methods for dat1guy's add-ons</summary>
+    <description lang="en">Collection of shared methods for dat1guy's add-ons.</description>
+    <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+    <source>https://github.com/dat1guy/script.module.dat1guy.shared</source>
+  </extension>
+</addon>
 	
 </addons>
