@@ -1,0 +1,2 @@
+# Anime Metahandler
+Anime Metahandler is a wrapper around the [metahandler add-on](https://github.com/Eldorados/script.module.metahandler) that queries, stores, and returns metadata for anime shows and movies.  Sources include [thetvdb.com](http://thetvdb.com/), [themoviedb.com](https://www.themoviedb.org/), and [imdb.com](http://www.imdb.com/).
