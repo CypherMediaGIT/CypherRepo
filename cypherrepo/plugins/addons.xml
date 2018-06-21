@@ -1710,7 +1710,7 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
 	</extension>
 </addon>
 
-<addon id="script.module.now_music" name="[COLOR cyan]Now Music[/COLOR]"	version="1.0.0"	provider-name="Cypher"> 
+<addon id="script.module.now_music" name="[COLOR cyan]Now Music[/COLOR]"	version="1.0.1"	provider-name="Cypher"> 
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
