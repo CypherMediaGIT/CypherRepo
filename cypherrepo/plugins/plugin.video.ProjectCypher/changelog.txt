@@ -1,3 +1,6 @@
+Version 4.0.6
+Added Module for Now Music
+removed f4m modules
 Version 4.0.5
     Added module for Mobdro
     Fixed Scrapers (Thanks Kal-el)
