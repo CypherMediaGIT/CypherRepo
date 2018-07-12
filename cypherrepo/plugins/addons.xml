@@ -407,27 +407,6 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.projectvod"
-	name="VOD by Cypher"
-	version="1.0.2"
-	provider-name="Cypher">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">VOD By Project Cypher addon</summary>
-    <description lang="en">VOD Content Hosted By YouTube.</description>
-    <platform>all</platform>
-    <forum>n/a</forum>
-    <website>n/a</website>
-  </extension>
-</addon>
-
 <addon id="script.video.F4mProxy" 
 	     name="F4mProxy" 
 	     version="2.8.7" 
