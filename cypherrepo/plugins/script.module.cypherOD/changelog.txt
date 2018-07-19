@@ -1,0 +1,2 @@
+v 1.0 initial release
+    - based on Just Sports addon, Plugins by Jen

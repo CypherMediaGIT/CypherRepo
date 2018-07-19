@@ -1,3 +1,9 @@
+Version 4.0.7
+Added Jen Modules for VOD Section
+Updated USA 2 With new local channels
+Fixed 24/7 tv and movies
+Added new VOD section
+Added tvtap app for iptv
 Version 4.0.6
 Added Module for Now Music
 removed f4m modules

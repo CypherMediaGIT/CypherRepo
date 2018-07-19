@@ -1650,7 +1650,25 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
   </extension>
 </addon>
 
-<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="4.0.6" provider-name="Cypher">
+<addon id="script.module.now_music" name="[COLOR cyan]Now Music[/COLOR]"	version="1.0.1"	provider-name="Cypher"> 
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="cyphernow.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Now Thats What I Call Music Collection</summary>
+    <description lang="en">All Content In This Addon Is Freely Available On The Internet</description>
+    <disclaimer lang="en">All Content In This Addon Is Freely Available On The Internet</disclaimer>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.ProjectCypher" name="[B][COLOR cyan]Project[/COLOR] [COLOR blue]Cypher[/COLOR][/B]" version="4.0.7" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.ProjectCypher.artwork" />
@@ -1659,7 +1677,6 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
 		<import addon="script.cypher.pairwith" />
         <import addon="script.cypher.pairwith.launcher" />
 		<import addon="script.cypherstream" />
-		<import addon="script.module.cypherswift" />
 		<import addon="script.module.cypheruktvnow" />
 		<import addon="script.module.cyphermobdro" />
 		<import addon="script.module.cyphernettv" />
@@ -1669,6 +1686,9 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
 		<import addon="script.module.urlresolver" version="4.0.05" />
 		<import addon="script.module.liveresolver" version="0.1.49" />
 		<import addon="script.module.now_music" version="1.0.0" />
+		<import addon="script.module.cypherOD" />
+		<import addon="script.module.cyphertvtap" />
+		<import addon="plugin.video.SportsDevil" version="20180429" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="projectcypher.py">
 		<provides>video</provides>
@@ -1689,21 +1709,81 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
 	</extension>
 </addon>
 
-<addon id="script.module.now_music" name="[COLOR cyan]Now Music[/COLOR]"	version="1.0.1"	provider-name="Cypher"> 
+<addon
+  id="plugin.video.SportsDevil"
+  version="20180429"
+  name="SportsDevil"
+  provider-name="SportsDevil">
+  <requires>
+   <import addon="xbmc.python" version="2.14.0"/>
+   <import addon="script.module.dateutil" />
+   <import addon="script.module.simplejson" />
+   <import addon="script.module.six" />
+   <import addon="script.module.requests" />
+   <import addon="script.module.streamlink.base" />
+   <import addon="plugin.video.f4mTester" />
+  </requires>
+  <extension 
+    point="xbmc.python.pluginsource"
+    library="default.py">
+   <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service/streamlink_proxy.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">SportsDevil addon</summary>
+    <description lang="en">Play videos of different ad-financed sports streaming sites.</description>
+	<disclaimer lang="en">SportsDevil does not provide any streams of its own; stream quality, content and copyright are responsibility of the ad-financed source web site. For updates - check the readme.</disclaimer>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.module.cypherOD" name="Cypher On Demand" version="1.0" provider-name="Cypher">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.universalscrapers" version="1.0.0" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <import addon="script.module.resolveurl" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Cypher On Demand</summary>
+        <description lang="en">Cypher On Demand for all your On Demand Sports, Movies, Music, Cartoons, Anime and 24/7 Content, Big thanks to Jen Plugins</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+        <platform>all</platform>
+        <website/>
+        <video_guide></video_guide>
+    </extension>
+</addon>
+	
+<addon id="script.module.cyphertvtap" name="Cypher Tap Tv APP[/B]" version="1.0" provider-name="Cypher/RACC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
+    <import addon="script.module.livestreamer" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
   </requires>
-  <extension point="xbmc.python.pluginsource" library="cyphernow.py">
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Now Thats What I Call Music Collection</summary>
-    <description lang="en">All Content In This Addon Is Freely Available On The Internet</description>
-    <disclaimer lang="en">All Content In This Addon Is Freely Available On The Internet</disclaimer>
+    <summary lang="en">tap tv app streams Module for Project Cypher</summary>
+    <description lang="en">tap tv app streams Module for Project Cypher</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
     <platform>all</platform>
-    <forum>n/a</forum>
-    <website>n/a</website>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
   </extension>
 </addon>
 	
