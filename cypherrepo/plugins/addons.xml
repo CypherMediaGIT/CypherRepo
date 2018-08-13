@@ -1039,7 +1039,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 	</extension>
 </addon>
 
-<addon id= "plugin.video.cypherbabytv" name="Cypher Baby TV" version="1.0.0" provider-name="Cypher">
+<addon id= "plugin.video.cypherbabytv" name="Cypher Baby TV" version="1.0.1" provider-name="Cypher">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube" version="3.0.0"/>
