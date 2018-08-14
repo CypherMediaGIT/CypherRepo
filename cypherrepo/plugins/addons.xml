@@ -630,35 +630,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.deathnote"
-       name="Cyphers Death Note"
-       version="1.0.2"
-       provider-name="Cypher">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />    
-     <import addon="script.module.livestreamer" optional="true"/>
-     <import addon="script.module.pyamf" optional="true"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>A Kodi addon Dedicated To All Things Death Note</summary>
-    <description>A Kodi addon Dedicated To All Things Death Note</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="script.rebirth.artwork" version="1.0.1" name="Rebirth Artwork" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
@@ -1741,6 +1712,33 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
     <email></email>
     <source></source>
   </extension>
+</addon>
+
+<addon id="plugin.video.deathnote" name="Cyphers Death Note" version="1.0.3" provider-name="Cypher">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.cypher.pairwith" />
+        <import addon="script.cypher.pairwith.launcher" />
+		<import addon="script.module.pyxbmct" />
+		<import addon="script.module.urlresolver" version="4.0.05" />
+		<import addon="script.module.liveresolver" version="0.1.49" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="deathnote.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>A Kodi addon Dedicated To All Things Death Note</summary>
+    <description>A Kodi addon Dedicated To All Things Death Note</description>
+    <platform>all</platform>
+		<forum>-</forum>
+		<website>-</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot></screenshot>
+		</assets>
+		<news></news>
+	</extension>
 </addon>
 	
 </addons>
