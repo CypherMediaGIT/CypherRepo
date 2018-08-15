@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.cyphermobdro" name="Cyphers Mobdro" version="1.0" provider-name="Cypher/RACC">
+<addon id="script.module.cyphermobdro" name="Cyphers Mobdro" version="1.1" provider-name="Cypher/RACC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.livestreamer" />

@@ -1242,7 +1242,7 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
     </extension>
 </addon>
 
-<addon id="script.module.cyphernettv" name="Cyphers NetTV" version="1.1" provider-name="Cypher">
+<addon id="script.module.cyphernettv" name="Cyphers NetTV" version="1.2" provider-name="Cypher">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.pyamf" />
@@ -1260,7 +1260,7 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
   </extension>
 </addon>
 
-<addon id="script.module.cyphermobdro" name="Cyphers Mobdro" version="1.0" provider-name="Cypher/RACC">
+<addon id="script.module.cyphermobdro" name="Cyphers Mobdro" version="1.1" provider-name="Cypher/RACC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.livestreamer" />
