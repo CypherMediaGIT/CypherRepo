@@ -1502,26 +1502,6 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
   </extension>
 </addon>
 	
-<addon id="plugin.video.9anime.cypher" name="Cypher 9Anime" version="0.0.6" provider-name="DxCx/Cypher">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.requests" version="2.12.4"/>
-    <import addon="script.common.plugin.cache" version="2.5.5"/>
-	<import addon="script.module.urlresolver" version="5.0.14" />
-    <import addon="script.module.beautifulsoup4" version="4.5.3" />
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">9Anime video plugin</summary>
-    <description lang="en">9anime is HD source for almost all animes All thanks goes to DxCx</description>
-    <source></source>
-    <platform>all</platform>
-  </extension>
-</addon>	
-
 <addon id="script.module.dat1guy.shared" version="1.0.8" name="dat1guy's Shared Methods" provider-name="dat1guy">
   <requires>
     <import addon="xbmc.python" version="2.24.0" />
@@ -1739,6 +1719,23 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
 		</assets>
 		<news></news>
 	</extension>
+</addon>
+
+<addon id="plugin.video.cypheranime" name="Cyphers Watch Dubbed Anime" version="1.0.0" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" />
+    <import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="cypheranime.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Video</summary>
+    <description lang="en">Cyphers WatchCartoonOnline addon, code was edited and re written from Jen Plugins</description>
+    <disclaimer lang="en">Cyphers WatchCartoonOnline addon, code was edited and re written from Jen Plugins</disclaimer>
+    <platform>all</platform>
+  </extension>
 </addon>
 	
 </addons>
