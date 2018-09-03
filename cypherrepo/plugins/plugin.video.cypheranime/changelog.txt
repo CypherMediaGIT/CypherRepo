@@ -1,0 +1,4 @@
+v 1.0.1 Updated code to make all section work
+
+v 1.0.0 initial release
+    - based on Just Sports addon, Plugins by Jen
