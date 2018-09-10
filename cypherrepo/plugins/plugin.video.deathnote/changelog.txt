@@ -1,4 +1,7 @@
-﻿Version 1.0.3
+﻿Version 1.0.4
+Updated for change of Server
+
+Version 1.0.3
 Fixed missing episodes in Anime and also fixed code for LSProdynamicCode
 
 Version 1.0.2
