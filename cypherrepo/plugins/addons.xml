@@ -1721,7 +1721,7 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
 	</extension>
 </addon>
 
-<addon id="plugin.video.cypheranime" name="Cyphers Watch Dubbed Anime" version="1.0.1" provider-name="Cypher">
+<addon id="plugin.video.cypheranime" name="Cyphers Watch Dubbed Anime" version="1.0.2" provider-name="Cypher">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
