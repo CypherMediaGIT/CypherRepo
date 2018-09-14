@@ -1177,7 +1177,7 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
   </extension>
 </addon>
 
-<addon id="plugin.video.rebirth" version="2.0.0" name="Rebirth" provider-name="Cypher">
+<addon id="plugin.video.rebirth" version="2.0.1" name="Rebirth" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.rebirth.artwork" version="1.0.0" />
