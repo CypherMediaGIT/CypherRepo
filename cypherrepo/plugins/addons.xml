@@ -97,5 +97,65 @@
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	</extension>
 </addon>
+
+<addon id="plugin.video.cyphertv" name="Cypher TV" version="1.4" provider-name="Cypher">  
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>    
+		<import addon="script.module.urlresolver"  version="2.1.2"/>
+        <import addon="script.cypher.pairwith" />
+		<import addon="script.module.requests" />
+	</requires>  
+	<extension point="xbmc.python.pluginsource" library="cyphertv.py">        
+		<provides>video</provides>  
+	</extension>  
+	<extension point="xbmc.addon.metadata">    
+		<summary lang="en">One click TV Shows By Cypher</summary>    
+		<description lang="en">One click TV Shows By Cypher from watch-episodes, We do not host any of the files within this Addon, we are in no way affiliated with KODI, Based on Code by metalkettle</description>    
+		<platform>all</platform>  
+	</extension>
+</addon>
+
+<addon id="script.cypher.pairwith"
+  name="Cypher Pair Hosts"
+  version="1.5" 
+  provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Cypher Pairing for hosts</summary>
+    <description lang="en">Cypher Pairing for hosts</description>
+	<disclaimer>Cypher Pairing for hosts</disclaimer>
+  </extension>
+</addon>
+
+<addon id="plugin.video.cypheranime" name="Cyphers Watch Dubbed Anime" version="1.0.3" provider-name="Cypher">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.universalscrapers" version="1.0.0" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <import addon="script.module.resolveurl" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Cyphers Watch Dubbed Anime</summary>
+        <description lang="en">Cyphers Watch Dubbed Anime for all your Movies, Cartoons, and Anime, Big thanks to Jen Plugins</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+        <platform>all</platform>
+        <website/>
+        <video_guide></video_guide>
+    </extension>
+</addon>
 	
 </addons>
