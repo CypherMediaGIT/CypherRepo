@@ -1,9 +1,0 @@
-[B]Cyphers Locker V1.0.7[/B]
-- update for new server
-[B]Cyphers Locker V1.0.6[/B]
-- update for additional repos
-[B]Cyphers Locker V1.0.3[/B]
-- FIX FOR FAILED INSTALLS
-[B]Cyphers Locker V1.0.1[/B]
-- Initial version
-

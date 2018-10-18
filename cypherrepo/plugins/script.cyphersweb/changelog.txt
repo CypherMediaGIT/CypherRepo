@@ -1,2 +1,0 @@
-Web Viewer 0.0.1 
-inital release
