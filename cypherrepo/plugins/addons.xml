@@ -157,5 +157,20 @@
         <video_guide></video_guide>
     </extension>
 </addon>
+
+<addon id= "plugin.video.cypherbabytv" name="Cypher Baby TV" version="1.0.2" provider-name="Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="babytv.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Baby TV By Cypher Media</summary>
+    <description lang="en">Awesome BabyTV videos from YouTube - With Live Channel by Cypher Media.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
 	
 </addons>
