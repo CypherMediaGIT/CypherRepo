@@ -1,0 +1,17 @@
+﻿Version 1.0.5
+Updated for change of Server
+
+Version 1.0.4
+Updated for change of Server
+
+Version 1.0.3
+Fixed missing episodes in Anime and also fixed code for LSProdynamicCode
+
+Version 1.0.2
+-Updated for server change, Added code for downloads change on site
+
+Version 1.0.1 
+-Updated for server change, Removed Trailers, Added the 2.5 Death Note The New Generation, A Webseries placed between DN 2 AND 3.
+
+Version 1.0.0 
+-Inital Release
