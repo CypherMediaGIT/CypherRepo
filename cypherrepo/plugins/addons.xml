@@ -24,5 +24,78 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+
+<addon id="plugin.video.rebirth" version="2.0.2" name="Rebirth" provider-name="Cypher">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.rebirth.artwork" version="1.0.0" />
+		<import addon="script.rebirth.metadata" version="1.0.0" />
+                <import addon="script.module.resolveurl" />
+                <import addon="script.module.metahandler"/>
+                <import addon="script.module.requests"/>
+                <import addon="script.module.beautifulsoup"/>
+                <import addon="script.module.schism.common"/>
+                <import addon="script.module.futures"/>
+                <import addon="script.module.universalscrapers" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="Rebirth.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Rebirth</summary>
+		<description lang="en">The Ultimate Movie, TV Show, and Playlist Add-on</description>
+		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news></news>
+	</extension>
+</addon>
+
+<addon id="script.rebirth.metadata" version="1.0.0" name="Rebirth Metadata" provider-name="Cypher">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the Rebirth Addon</summary>
+		<description>Metadata for Rebirth are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.rebirth.artwork" version="1.0.1" name="Rebirth Artwork" provider-name="Cypher">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the Rebirth Addon</summary>
+		<description>Themes for Rebirth are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.module.schism.common" name="Elysium Common Libraries" version="2017.06.08" provider-name="Elysium">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.six" />
+		<import addon="script.module.metahandler" />
+		<import addon="script.module.beautifulsoup" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Collection of modules used by Elysium</summary>
+		<description lang="en">Collection of modules used by Elysium</description>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>
 	
 </addons>
