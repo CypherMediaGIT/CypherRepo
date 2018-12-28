@@ -319,5 +319,24 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
     <website>n/a</website>
   </extension>
 </addon>
+
+<addon id="plugin.video.cypherwomen" name="[COLOR cyan]Cyphers Womens Sports[/COLOR]"	version="1.0.0"	provider-name="Cypher"> 
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="cypherwoman.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Cyphers Womens Sports Collection</summary>
+    <description lang="en">All Content In This Addon Is Freely Available On The Internet</description>
+    <disclaimer lang="en">All Content In This Addon Is Freely Available On The Internet</disclaimer>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
 	
 </addons>
