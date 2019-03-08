@@ -25,7 +25,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.rebirth" version="2.0.2" name="Rebirth" provider-name="Cypher">
+<addon id="plugin.video.rebirth" version="2.0.3" name="Rebirth" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.rebirth.artwork" version="1.0.0" />
@@ -117,7 +117,7 @@
 
 <addon id="script.cypher.pairwith"
   name="Cypher Pair Hosts"
-  version="1.5" 
+  version="1.6" 
   provider-name="Cypher">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -133,7 +133,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.cypheranime" name="Cyphers Watch Dubbed Anime" version="1.0.3" provider-name="Cypher">
+<addon id="plugin.video.cypheranime" name="Cyphers Watch Dubbed Anime" version="1.0.4" provider-name="Cypher">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
@@ -158,7 +158,7 @@
     </extension>
 </addon>
 
-<addon id= "plugin.video.cypherbabytv" name="Cypher Baby TV" version="1.0.2" provider-name="Cypher">
+<addon id= "plugin.video.cypherbabytv" name="Cypher Baby TV" version="1.0.3" provider-name="Cypher">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube" version="3.0.0"/>

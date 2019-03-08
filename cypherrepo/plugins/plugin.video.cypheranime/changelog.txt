@@ -1,3 +1,5 @@
+v 1.0.4 - Updated for new server
+
 v 1.0.3
  - Updated for new server
 
