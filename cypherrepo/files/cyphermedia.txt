@@ -2,6 +2,8 @@
 
 plugin.video.cyphermedia - 1.0.0
 [I]- Inital Release[/I]
+[I]- Fixed Movies By Age Section[/I]
+[I]- Fixed TV Shows By Age Section and updated the ratings titales to match tv[/I]
 [I]- Its Nice to be back again[/I]
 
 script.cyphermedia.artwork - 1.0.0
