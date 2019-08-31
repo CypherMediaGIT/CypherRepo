@@ -1,0 +1,17 @@
+[B]Last Update:[/B] Sep 01, 2019
+
+plugin.video.cyphermedia - 1.0.0
+[I]- Inital Release[/I]
+[I]- Its Nice to be back again[/I]
+
+script.cyphermedia.artwork - 1.0.0
+[I]- Inital Release[/I]
+
+script.module.cyphermedia - 1.0.0
+[I]- Inital Release[/I]
+
+script.cyphermedia.metadata - 1.0.0
+[I]- Inital Release[/I]
+
+[B]Important!![/B] Reset Cypher Media settings to Defaults if you are experiencing issues.
+If you reset to Defaults, Trakt will need to be re-authorized and IMDb credentials will need to be re-entered.
