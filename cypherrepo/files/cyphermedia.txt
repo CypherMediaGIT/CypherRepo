@@ -1,21 +1,10 @@
-[B]Last Update:[/B] Sep 01, 2019
+[B]Last Update:[/B] Nov 16, 2019
 
-plugin.video.cyphermedia - 1.0.0
-[I]- Inital Release[/I]
-[I]- Fixed Movies By Age Section[/I]
-[I]- Fixed TV Shows By Age Section and updated the ratings titles to match TV[/I]
-[I]- Added Several New Section to Movies and TV Shows[/I]
-[I]- Added New sections to Homescreen including Live TV from Swift[/I]
-[I]- Its Nice to be back again[/I]
+plugin.video.cyphermedia - 1.0.1
+[I]- Fix for TVDB Migration[/I]
 
-script.cyphermedia.artwork - 1.0.0
-[I]- Inital Release[/I]
-
-script.module.cyphermedia - 1.0.0
-[I]- Inital Release[/I]
-
-script.cyphermedia.metadata - 1.0.0
-[I]- Inital Release[/I]
+script.cyphermedia.metadata - 1.0.1
+[I]- Fix for TVDB Migration[/I]
 
 [B]Important!![/B] Reset Cypher Media settings to Defaults if you are experiencing issues.
 If you reset to Defaults, Trakt will need to be re-authorized and IMDb credentials will need to be re-entered.

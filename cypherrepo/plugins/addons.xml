@@ -31,7 +31,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.cyphermedia" version="1.0.0" name="Cypher Media" provider-name="Cypher">
+<addon id="plugin.video.cyphermedia" version="1.0.1" name="Cypher Media" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.cyphermedia" />
@@ -85,7 +85,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.cyphermedia" name="Cypher Media Module" version="1.0.0" provider-name="Cypher">
+<addon id="script.module.cyphermedia" name="Cypher Media Module" version="1.0.1" provider-name="Cypher">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
