@@ -1,3 +1,6 @@
+1.0.2
+- Fix for TVDB Changes
+
 1.0.1
 - Fix for TVDB Migration
 
