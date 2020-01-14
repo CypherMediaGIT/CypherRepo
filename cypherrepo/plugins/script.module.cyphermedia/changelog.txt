@@ -1,3 +1,6 @@
+1.0.3
+- Added SteamLive and USA TV Go
+
 1.0.2
 - Fix for TVDB Changes
 
