@@ -2,11 +2,11 @@
 <fanart></fanart>
 <xml>
 
-<plugin>
+<dir>
 <title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .1 [COLOR cornflowerblue](Net.tv)[/COLOR][/B]</title>
-<link>plugin://script.module.tt/list_channels/5,return</link>
+<plugin>plugin://script.module.tt/list_channels/5,return</plugin>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/livenet.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
-</plugin>
+</dir>
 
-
+</xml>
