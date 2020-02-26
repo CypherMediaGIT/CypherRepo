@@ -10,3 +10,8 @@
 </dir>
 
 </xml>
+
+<favourites>
+    <favourite name="US - Fox Sports 1" thumb="http://tvtap.net/tvtap1/images/channel_imgs/190116045235foxsp1.jpg|User-Agent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%205.1.1%3B%20AFTS%20Build%2FLVY48F%29">PlayMedia(&quot;plugin://script.module.tt/play/120/play.pvr&quot;)</favourite>
+    <favourite name="Sports">ActivateWindow(10025,&quot;plugin://script.module.tt/list_channels/5&quot;,return)</favourite>
+</favourites>
