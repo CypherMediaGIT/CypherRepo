@@ -1,10 +1,16 @@
-[B]Last Update:[/B] Jan 14, 2020
+[B]Last Update:[/B] Feb 28, 2020
 
-plugin.video.cyphermedia - 1.0.2
-[I]- Added SteamLive and USA TV Go[/I]
+plugin.video.cyphermedia - 1.0.3
+[I]- Updated StreamLive and USA TV Go 
+     Added Cypher 24/7 Section and Added AcronaiTV Cable Channels[/I]
 
-script.module.cyphermedia - 1.0.3
-[I]- Added SteamLive and USA TV Go[/I]
+script.cyphermedia.artwork - 1.0.1
+[I]- Added art work for New sections[/I]
+
+script.module.cyphermedia - 1.0.4
+[I]- Updated StreamLive and USA TV Go 
+     Added Cypher 24/7 Section and Added AcronaiTV Cable Channels
+
 
 [B]Important!![/B] Reset Cypher Media settings to Defaults if you are experiencing issues.
 If you reset to Defaults, Trakt will need to be re-authorized and IMDb credentials will need to be re-entered.
