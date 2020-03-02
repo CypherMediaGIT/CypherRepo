@@ -1,15 +1,7 @@
-[B]Last Update:[/B] Feb 28, 2020
+[B]Last Update:[/B] March 02, 2020
 
-plugin.video.cyphermedia - 1.0.3
-[I]- Updated StreamLive and USA TV Go 
-     Added Cypher 24/7 Section and Added AcronaiTV Cable Channels[/I]
-
-script.cyphermedia.artwork - 1.0.1
-[I]- Added art work for New sections[/I]
-
-script.module.cyphermedia - 1.0.4
-[I]- Updated StreamLive and USA TV Go 
-     Added Cypher 24/7 Section and Added AcronaiTV Cable Channels
+script.module.cyphermedia - 1.0.5
+[I]- Fixed TV Section
 
 
 [B]Important!![/B] Reset Cypher Media settings to Defaults if you are experiencing issues.

@@ -1,3 +1,6 @@
+1.0.5 
+- Fixed TV Section
+
 1.0.4 
 - Updated StreamLive and USA TV Go 
   Added Cypher 24/7 Section and Added AcronaiTV Cable Channels
