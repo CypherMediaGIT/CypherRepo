@@ -6,6 +6,8 @@
 <title>===[COLOR gold]Sports News and Documentaries[/COLOR]==</title>
 </item>
 
+
+
 <dir>
 <title>***TV-TAP - All***</title>
 <thumbnail></thumbnail>
@@ -18,4 +20,9 @@
 <link>plugin://script.module.7of9-live/list_channels/5</link>
 </dir>
 
-
+<item>
+<title>Sky Sports Football</title>
+<link>plugin://script.module.tt</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
