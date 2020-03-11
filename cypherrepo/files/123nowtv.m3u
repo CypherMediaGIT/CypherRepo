@@ -164,3 +164,6 @@ http://klive.kaltura.com/dc-1/m/ny-live-publish102/live/legacy/p/931702/e/1_oorx
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" group-title="",WWE NETWORK
 http://docs-5.gogleusercontent.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/wwe-network/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" group-title="",WWE NETWORK
+http://docs-5.gogleusercontent.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/wwe-network/
