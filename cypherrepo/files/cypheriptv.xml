@@ -9,14 +9,14 @@
 </plugin>
 
 <dir>
-<name>[B][COLOR white]123TVNow[COLOR cornflowerblue](123tvnow.com)[/COLOR][/B]</name>
+<name>[B][COLOR white]123TVNow[COLOR cornflowerblue] (123tvnow.com)[/COLOR][/B]</name>
 <link>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/cypherrepo/files/123nowtv.m3u</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>http://123tvnow.com/wp-content/themes/123tv_v2/img/logo.png</thumbnail>
 </dir>
 
 <plugin>
-<title>[B][COLOR white]Cypher IPTV Main[COLOR cornflowerblue](TVTAP)[/COLOR][/B]</title>
+<title>[B][COLOR white]Cypher IPTV Main[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
 <link>plugin://plugin.video.tvone11</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
@@ -30,7 +30,7 @@
 </plugin>
 
 <plugin>
-<title>[B][COLOR white]Sky Sport tester[COLOR cornflowerblue](TVTAP)[/COLOR][/B]</title>
+<title>[B][COLOR white]Sky Sport tester[COLOR cornflowerblue] (TVTAP)[/COLOR][/B]</title>
 <link>plugin://plugin.video.tvone11/play/8/586/</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
