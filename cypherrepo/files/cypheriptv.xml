@@ -16,8 +16,8 @@
 </plugin>
 
 <plugin>
-<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .5 [COLOR cornflowerblue](TV TAP)[/COLOR][/B]</title>
-<link>plugin://script.module.tt</link>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]Sky Sport[COLOR cornflowerblue](TV TAP)[/COLOR][/B]</title>
+<link>plugin://plugin.video.tvone11/play/8/586/play.pvr</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/TvTap.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
