@@ -3,8 +3,14 @@
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" group-title="",A&E
 https://ok.ru/videoembed/1319453400675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/400px-American_Heroes_Channel_logo.svg.png" group-title="",AHC (American Heroes Channel)
+http://docs-6.gogleusercontent.host/live/ahc/chunks.m3u8|Referer=http://123tvnow.com/watch/ahc-american-heroes-channel/
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="",AMC
 http://docs-8.gogleusercontent.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.realityblurred.com/realitytv/images/2018/10/animal-planet-logo-2018-350x220.png" group-title="",Animal Planet
+http://docs-3.gogleusercontent.host/live/animalplanet/chunks.m3u8|Referer=http://123tvnow.com/watch/animal-planet/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/bbc-america-logo1.jpg?w=256" group-title="",BBC America
 http://docs-2.gogleusercontent.host/live/bbca/chunks.m3u8|Referer=http://123tvnow.com/watch/bbc-america/
@@ -43,19 +49,13 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.
 http://docs-7.gogleusercontent.host/live/cnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/cnbc-2/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" group-title="",CNN
-http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
+http://docs-2.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn-2/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" group-title="",CW
 http://docs-1.gogleusercontent.host/live/cw/chunks.m3u8|Referer=http://123tvnow.com/watch/the-cw/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" group-title="",Discovery Channel
 http://docs-3.gogleusercontent.host/live/discovery/chunks.m3u8|Referer=http://123tvnow.com/watch/discovery-channel/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="",DISCOVERY SCIENCE
-http://docs-2.gogleusercontent.host/live/sci/chunks.m3u8|Referer=http://123tvnow.com/watch/science-channel/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/05/disney_channel_logo_a_l.jpg" group-title="",Disney Channel
-http://get.123tv.live/channel/475234483832356b324f375963645246706d426169773d3d/242/disney.m3u8?1&json=RGlzbmV5IENoYW5uZWx8fGh0dHA6Ly8xMjN0dm5vdy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDgvZGlzbmV5LnBuZw==|Referer=http://123tvnow.com/watch/discovery-channel/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="",DIY Network
 http://docs-8.gogleusercontent.host/live/diy/chunks.m3u8|Referer=http://123tvnow.com/watch/diy-network/
@@ -90,6 +90,9 @@ http://docs-6.gogleusercontent.host/live/hbo/chunks.m3u8|Referer=http://123tvnow
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" group-title="",HGTV
 http://docs-2.gogleusercontent.host/live/hgtv/chunks.m3u8|Referer=http://123tvnow.com/watch/hgtv/
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.history.com/assets/images/history/generic-thumb.jpg" group-title="",History
+http://docs-6.gogleusercontent.host/live/history/chunks.m3u8|Referer=http://123tvnow.com/watch/history-channel/
+
 #EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" group-title="",Investigation Discovery
 http://docs-1.gogleusercontent.host/live/id/chunks.m3u8|Referer=http://123tvnow.com/watch/investigation-discovery/
 
@@ -98,6 +101,9 @@ http://docs-5.gogleusercontent.host/live/lifetime/chunks.m3u8|Referer=http://123
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" group-title="",MSNBC
 http://docs-6.gogleusercontent.host/live/msnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/msnbc/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" group-title="",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8|Referer=http://123tvnow.com/watch/nasa-tv/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" group-title="",National Geographic
 http://docs-6.gogleusercontent.host/live/natgeo/chunks.m3u8|Referer=http://123tvnow.com/watch/national-geographic/
@@ -119,6 +125,9 @@ http://docs-3.gogleusercontent.host/live/nhltv/chunks.m3u8|Referer=http://123tvn
 
 #EXTINF:-1 tvg-id="659"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Oxygen-269x151.png" group-title="",Oxygen
 http://docs-7.gogleusercontent.host/live/oxygen/chunks.m3u8|Referer=http://123tvnow.com/watch/oxygen/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/375px-Science_Channel_2016.png" group-title="",Science Channel
+http://docs-2.gogleusercontent.host/live/sci/chunks.m3u8|Referer=http://123tvnow.com/watch/science-channel/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Showtime-269x151.png" group-title="",Showtime
 http://docs-6.gogleusercontent.host/live/showtime/chunks.m3u8|Referer=http://123tvnow.com/watch/showtime/
