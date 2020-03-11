@@ -55,7 +55,7 @@ http://docs-3.gogleusercontent.host/live/discovery/chunks.m3u8|Referer=http://12
 http://docs-2.gogleusercontent.host/live/sci/chunks.m3u8|Referer=http://123tvnow.com/watch/science-channel/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/05/disney_channel_logo_a_l.jpg" group-title="",Disney Channel
-http://docs-3.gogleusercontent.host/live/disney/chunks.m3u8|Referer=http://123tvnow.com/watch/discovery-channel/
+http://get.123tv.live/channel/475234483832356b324f375963645246706d426169773d3d/242/disney.m3u8?1&json=RGlzbmV5IENoYW5uZWx8fGh0dHA6Ly8xMjN0dm5vdy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDgvZGlzbmV5LnBuZw==|Referer=http://123tvnow.com/watch/discovery-channel/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="",DIY Network
 http://docs-8.gogleusercontent.host/live/diy/chunks.m3u8|Referer=http://123tvnow.com/watch/diy-network/
