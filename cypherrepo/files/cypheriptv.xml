@@ -4,8 +4,8 @@
 <plugin>
 <title>| [COLOR cyan][B]........... Welcome to Cypher Media IPTV ...........[/B][/COLOR] |</title>
 <link>plugin://plugin.video.selfless/</link>
-<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
-<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
 
 <dir>
@@ -18,20 +18,20 @@
 <plugin>
 <title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .4 [COLOR cornflowerblue](SwiftStreamz 2)[/COLOR][/B]</title>
 <link>plugin://plugin.video.tvone11</link>
-<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/swiftstreamz.png</thumbnail>
-<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
 
 <plugin>
 <title>[COLOR cyan][B]I[/COLOR][COLOR white]Sky Sport[COLOR cornflowerblue](TV TAP)[/COLOR][/B]</title>
 <link>plugin://plugin.video.tvone11/play/8/586/play.pvr</link>
-<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/TvTap.png</thumbnail>
-<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
 
 <plugin>
 <title>[COLOR cyan][B]I[/COLOR][COLOR white]Sport [COLOR cornflowerblue](IPTV)[/COLOR][/B]</title>
 <link>plugin://plugin.video.tvone11/list_channels/8</link>
-<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
-<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
