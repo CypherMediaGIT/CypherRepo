@@ -123,6 +123,9 @@ http://docs-6.gogleusercontent.host/live/nfltv/chunks.m3u8|Referer=http://123tvn
 #EXTINF:-1 tvg-id="14156" tvg-logo="http://123tvnow.com/wp-content/uploads/2019/02/nhl.png" group-title="",NHL Network
 http://docs-3.gogleusercontent.host/live/nhltv/chunks.m3u8|Referer=http://123tvnow.com/watch/nhl-network/
 
+#EXTINF:-1 tvg-id="14156" tvg-logo="http://123tvnow.com/wp-content/uploads/2019/02/nhl.png" group-title="",Nickelodeon
+http://docs-6.gogleusercontent.host/live/nick2/chunks.m3u8|Referer=http://123tvnow.com/watch/nickelodeon/
+
 #EXTINF:-1 tvg-id="659"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Oxygen-269x151.png" group-title="",Oxygen
 http://docs-7.gogleusercontent.host/live/oxygen/chunks.m3u8|Referer=http://123tvnow.com/watch/oxygen/
 
@@ -144,11 +147,20 @@ http://docs-3.gogleusercontent.host/live/tbs/chunks.m3u8|Referer=http://123tvnow
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" group-title="",TLC
 https://ok.ru/videoembed/1218455936611?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/eA0wuQ5o8NE/maxresdefault.jpg" group-title="",TNT
+http://docs-4.gogleusercontent.host/live/tnt/chunks.m3u8|Referer=http://123tvnow.com/watch/tnt/
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Travel-269x151.png" group-title="",Travel Channel
 http://docs-6.gogleusercontent.host/live/travel/chunks.m3u8|Referer=http://123tvnow.com/watch/travel-channel/
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/10/trutv-now-on-netflix.png" group-title="",TruTV
+http://docs-2.gogleusercontent.host/live/trutv/chunks.m3u8|Referer=http://123tvnow.com/watch/travel-channel/
+
 #EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" group-title="",USA Network
 http://docs-4.gogleusercontent.host/live/usa/chunks.m3u8|Referer=http://123tvnow.com/watch/usa-network/
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://www.weathernationtv.com/app/uploads/WN_LOGO-for-lori-png.png" group-title="",WeatherNation TV
+http://klive.kaltura.com/dc-1/m/ny-live-publish102/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/YkVX3nq8rDAPjNc-yHkv5Q/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" group-title="",WWE NETWORK
 http://docs-5.gogleusercontent.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/wwe-network/
