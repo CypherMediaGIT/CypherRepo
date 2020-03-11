@@ -1,0 +1,37 @@
+<poster>WARNING YOU HAVE BEEN SEEN!</poster>
+<fanart></fanart>
+
+<plugin>
+<title>| [COLOR cyan][B]........... Welcome to Cypher Media IPTV ...........[/B][/COLOR] |</title>
+<link>plugin://plugin.video.selfless/</link>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .4 [COLOR cornflowerblue](SwiftStreamz 2)[/COLOR][/B]</title>
+<link>plugin://plugin.video.tvone11</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/swiftstreamz.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .5 [COLOR cornflowerblue](TV TAP)[/COLOR][/B]</title>
+<link>plugin://script.module.tt</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/TvTap.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]Sport [COLOR cornflowerblue](IPTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.tvone11/list_channels/8</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+<dir>
+<name>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .7 [COLOR cornflowerblue](USA NEWS)[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/Kodi-Ghost/apparitions/master/files/TVUS%20(1).m3u</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/USA.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</dir>
