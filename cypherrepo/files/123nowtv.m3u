@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" group-title="",A&E
-https://ok.ru/videoembed/1319453400675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" group-title="",A&E T
+plugin://plugin.video.cyphermedia/?action=swiftPlay&amp;url=A & E USA|http://94.130.148.229:5454/usa2020/AandE/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/400px-American_Heroes_Channel_logo.svg.png" group-title="",AHC (American Heroes Channel)
 http://docs-6.gogleusercontent.host/live/ahc/chunks.m3u8|Referer=http://123tvnow.com/watch/ahc-american-heroes-channel/
