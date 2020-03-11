@@ -103,7 +103,7 @@ http://docs-5.gogleusercontent.host/live/lifetime/chunks.m3u8|Referer=http://123
 http://docs-6.gogleusercontent.host/live/msnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/msnbc/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" group-title="",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8|Referer=http://123tvnow.com/watch/nasa-tv/
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" group-title="",National Geographic
 http://docs-6.gogleusercontent.host/live/natgeo/chunks.m3u8|Referer=http://123tvnow.com/watch/national-geographic/
