@@ -24,42 +24,42 @@
 
 <plugin>
 <title>[B][COLOR white]Cypher Media Sports On TV Now[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tvone1112/list_live</link>
+<link>plugin.video.CypherEngine2/list_live</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
 
 <plugin>
 <title>[B][COLOR white]Cypher Media Sport[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tvone11/list_channels/8</link>
+<link>plugin://plugin.video.CypherEngine1/list_channels/8</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
 
 <plugin>
 <title>[B][COLOR white]Cypher Media UK TV[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tvone11/list_channels/4</link>
+<link>plugin://plugin.video.CypherEngine1/list_channels/4</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
 
 <plugin>
 <title>[B][COLOR white]Cypher Media USA TV[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tvone11/list_channels/5</link>
+<link>plugin://plugin.video.CypherEngine1/list_channels/5</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
 
 <plugin>
 <title>[B][COLOR white]Cypher Media Canadian TV[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tvone11/list_channels/17</link>
+<link>plugin.video.CypherEngine1/list_channels/17</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
 
 <plugin>
 <title>[B][COLOR white]Cypher Media Australian TV[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tvone11/list_channels/24</link>
+<link>plugin.video.CypherEngine1/list_channels/24</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
