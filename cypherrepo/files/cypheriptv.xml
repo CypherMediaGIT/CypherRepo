@@ -17,7 +17,7 @@
 
 <plugin>
 <title>[B][COLOR white]Cypher Media IPTV[COLOR cornflowerblue] (List)[/COLOR][/B]</title>
-<link>plugin://plugin.video.temptv/?action=CypheriptvNavigator</link>
+<link>plugin://plugin.video.cyphermediaiptv/?action=CypheriptvNavigator</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
