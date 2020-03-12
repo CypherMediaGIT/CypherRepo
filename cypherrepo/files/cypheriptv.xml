@@ -56,3 +56,10 @@
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
+
+<dir>
+<name>[B][COLOR white]World IPTV[COLOR cornflowerblue] (IPTV by Country)[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/cypherrepo/files/123nowtv.m3u</link>
+<fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
+<thumbnail>http://123tvnow.com/wp-content/themes/123tv_v2/img/logo.png</thumbnail>
+</dir>
