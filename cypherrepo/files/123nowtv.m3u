@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" group-title="",A&E A
-plugin://plugin.video.cyphermedia/?action=swiftPlay&amp;url=QSAmIEUgVVNBfGh0dHA6Ly85NC4xMzAuMTQ4LjIyOTo1NDU0L3VzYTIwMjAvQWFuZEUvcGxheWxp&#x0A;c3QubTN1OHw1&#x0A
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/400px-American_Heroes_Channel_logo.svg.png" group-title="",AHC (American Heroes Channel)
 http://docs-6.gogleusercontent.host/live/ahc/chunks.m3u8|Referer=http://123tvnow.com/watch/ahc-american-heroes-channel/
 
@@ -17,9 +14,6 @@ http://docs-2.gogleusercontent.host/live/bbca/chunks.m3u8|Referer=http://123tvno
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  group-title="",Bloomberg US
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" group-title="",Bravo Channel
-https://ok.ru/videoembed/1082884824675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cspan-269x151.png" group-title="",C-Span 1
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
@@ -143,9 +137,6 @@ http://docs-3.gogleusercontent.host/live/syfy/chunks.m3u8|Referer=http://123tvno
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" group-title="",TBS
 http://docs-3.gogleusercontent.host/live/tbs/chunks.m3u8|Referer=http://123tvnow.com/watch/tbs/
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" group-title="",TLC
-https://ok.ru/videoembed/1218455936611?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/eA0wuQ5o8NE/maxresdefault.jpg" group-title="",TNT
 http://docs-4.gogleusercontent.host/live/tnt/chunks.m3u8|Referer=http://123tvnow.com/watch/tnt/
