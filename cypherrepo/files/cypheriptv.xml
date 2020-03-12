@@ -3,7 +3,7 @@
 
 <plugin>
 <title>| [COLOR cyan][B]........... Welcome to Cypher Media IPTV ...........[/B][/COLOR] |</title>
-<link>plugin://plugin.video.selfless/</link>
+<link>plugin://plugin.video.cyphermediaiptv/</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
