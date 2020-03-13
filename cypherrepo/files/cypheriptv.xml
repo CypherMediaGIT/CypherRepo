@@ -52,7 +52,7 @@
 
 <plugin>
 <title>[B][COLOR white]Cypher Media Canadian TV[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.CypherEngine1/list_channels/17</link>
+<link>plugin://plugin.video.CypherEngine2/list_channels/34</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
