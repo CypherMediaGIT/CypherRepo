@@ -229,4 +229,137 @@ unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
   </extension>
 </addon>
 
+<addon id="plugin.video.cyphermediaiptv" version="1.0.0" name="[COLOR cyan]Cypher Media IPTV[/COLOR]" provider-name="Cypher">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.requests" />
+		<import addon="script.module.metahandler" />
+		<import addon="script.module.beautifulsoup4" />
+		<import addon="plugin.video.CypherEngine1" />
+		<import addon="plugin.video.CypherEngine2" />
+		<import addon="plugin.video.CypherEngine3" />
+		<import addon="plugin.video.live.streamspro" veersion="13.3.2020" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="cypheriptv.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<description lang="en">Simple Free Light IPTV Collected from All Over the Net</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+        <license>Free the People!, Free the World!!</license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
+<addon id="plugin.video.CypherEngine1" name="[COLOR cyan]Cypher Media Engine 1[/COLOR]" version="1" provider-name="RACC/Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="script.module.pycryptodome" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">IPTV</summary>
+    <description lang="en_gb">IPTV</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GPL-3.0</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.CypherEngine2" name="[COLOR cyan]Cypher Media Engine 2[/COLOR]" version="1" provider-name="RACC/Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0" />
+    <import addon="script.module.pycryptodome" />
+    <import addon="script.module.dateutil" />
+    <import addon="script.module.pyamf" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">IPTV</summary>
+    <description lang="en_gb">IPTV</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.CypherEngine3" name="[COLOR cyan]Cypher Media Engine 3[/COLOR]" version="1" provider-name="RACC/Cypher">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="script.module.pycryptodome" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">IPTV</summary>
+    <description lang="en_gb">IPTV</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GPL-3.0</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.live.streamspro"
+       name="LiveStreamsPro"
+       version="13.3.2020"
+       provider-name="Shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="script.module.dateutil" optional="true" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.simplejson" />    
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>livestreamspro- forked from livestreams for use with Cypher Media</summary>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 </addons>
