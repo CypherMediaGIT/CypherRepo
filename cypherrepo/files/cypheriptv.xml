@@ -72,8 +72,8 @@
 </dir>
 
 <plugin>
-<title>[B][COLOR red]Cypher Media Test Link[COLOR pink] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tvone/play/192/play.pvr</link>
+<title>[B][COLOR red]Cypher Media Test Link[COLOR white] (IPTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.tvone/play/192/</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
