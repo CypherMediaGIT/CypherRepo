@@ -58,8 +58,8 @@
 </plugin>
 
 <plugin>
-<title>[B][COLOR white]Cypher Media Australian TV[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.CypherEngine1/list_channels/24</link>
+<title>[B][COLOR white]Cypher Media Australian TV[COLOR yellow] (Experiemental IPTV Wait for channel load)[/COLOR][/B]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/au.m3u</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
