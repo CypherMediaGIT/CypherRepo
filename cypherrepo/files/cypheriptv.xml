@@ -23,15 +23,15 @@
 </plugin>
 
 <plugin>
-<title>[B][COLOR white]Cypher Media Sport[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.CypherEngine1/list_channels/8</link>
+<title>[B][COLOR white]Cypher Media Sports By Event[COLOR cornflowerblue] (Current Event from the Top)[/COLOR][/B]</title>
+<link>plugin://plugin.video.CypherEngine2/list_live</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
 
 <plugin>
-<title>[B][COLOR white]Cypher Media Sports On TV Now[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.CypherEngine2/list_live</link>
+<title>[B][COLOR white]Cypher Media Sport[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.CypherEngine1/list_channels/8</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
@@ -70,10 +70,3 @@
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://lh3.googleusercontent.com/proxy/TcgBl77YnmU9OsMV38UstGXbHPhV6hBdLtXOYWJpeWQESRVPZ6aBrs6Xhn2vwlEynTniQ0hvdK1BeuR-3Og26bfVfO7ZGki--BRdeqXs5n94y4SodGE3xB-8ygaC</thumbnail>
 </dir>
-
-<plugin>
-<title>[B][COLOR red]Cypher Media Test Link[COLOR white] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tvone/play/192/</link>
-<fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
-<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
-</plugin>
