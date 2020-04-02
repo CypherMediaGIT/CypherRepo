@@ -1,3 +1,5 @@
+[B]Cyphers Locker V3.2[/B]
+- removed jsergio because of him quitting and replaced with Gujal00 repo
 [B]Cyphers Locker V3.1[/B]
 - removed TVA because of indigo install and replaced with jsergio repo
 [B]Cyphers Locker V3.0[/B]
