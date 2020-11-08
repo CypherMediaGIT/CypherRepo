@@ -44,8 +44,8 @@
 </dir>
 
 <plugin>
-<title>[B][COLOR white]Cypher Media USA TV[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.cyphermediaiptv/?action=streamliveNavigator</link>
+<title>[B][COLOR white]Cypher Media USA 2 TV[COLOR cornflowerblue] (IPTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.cyphermediaiptv/?action=ustvgoNavigator</link>
 <fanart>https://wallpapercave.com/wp/wp1836733.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/cypheriptv.jpg</thumbnail>
 </plugin>
