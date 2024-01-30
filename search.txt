@@ -1,13 +1,13 @@
 <dir>
 <title>[COLORdarkred]Movie Search[/COLOR]</title>
 <tmdb>search</tmdb>
-<thumbnail>https://i.imgur.com/NVmPXXV.png</thumbnail>
-<fanart>https://i.imgur.com/GqrD14k.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/search.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/fanart.jpg</fanart>
 </dir>
 
 <dir>
 <title>[COLORdarkred]TV Shows Search[/COLOR]</title>
 <tmdb>search</tmdb>
-<thumbnail>https://i.imgur.com/NVmPXXV.png</thumbnail>
-<fanart>https://i.imgur.com/GqrD14k.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/search.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/fanart.jpg</fanart>
 </dir>
