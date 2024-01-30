@@ -6,38 +6,24 @@
 </dir>
 
 <dir>
-<title>DC Universe (DCU)</title>
-<tmdb>list/8190479</tmdb>
-<thumbnail>https://i.imgur.com/7JpSKOK.png</thumbnail>
-<fanart>https://i.imgur.com/uZAZNcx.png</fanart>
-</dir>
-
-<dir>
-<title>DC Classics</title>
-<link>https://thechains24.com/DC%20Universe/DC%20CLASSICS/CLASSIC%20MAIN.txt</link>
-<thumbnail>https://i.imgur.com/sfUCPIz.png</thumbnail>
-<fanart>https://i.imgur.com/uZAZNcx.png</fanart>
-</dir>
-
-<dir>
 <title>Superman</title>
-<tmdb>collection/8537</tmdb>
-<thumbnail>https://i.imgur.com/gsHMVZa.png</thumbnail>
-<fanart>https://i.imgur.com/S4CLOq7.jpg</fanart>
+<tmdb>list/8289308</tmdb>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dc.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dceu.png</fanart>
 </dir>
 
 <dir>
 <title>Batman</title>
-<tmdb>list/8190477</tmdb>
-<thumbnail>https://i.imgur.com/x6Jx9T8.png</thumbnail>
-<fanart>https://i.imgur.com/SAehuOF.jpg</fanart>
+<tmdb>list/8289309</tmdb>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dc.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dceu.png</fanart>
 </dir>
 
 <dir>
 <title>Wonder Woman</title>
-<tmdb>collection/468552</tmdb>
-<thumbnail>https://i.imgur.com/JJKGyYB.png</thumbnail>
-<fanart>https://i.imgur.com/CUxwhSB.jpg</fanart>
+<tmdb>list/8289310</tmdb>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dc.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dceu.png</fanart>
 </dir>
 
 <dir>
@@ -72,5 +58,19 @@
 <title>DC Documentaries</title>
 <link>http://thechains24.com/DC%20Universe/DC%20Docs%20MAIN.txt</link>
 <thumbnail>https://i.imgur.com/WVzi6WZ.png</thumbnail>
+<fanart>https://i.imgur.com/uZAZNcx.png</fanart>
+</dir>
+
+<dir>
+<title>DC Classics</title>
+<link>https://thechains24.com/DC%20Universe/DC%20CLASSICS/CLASSIC%20MAIN.txt</link>
+<thumbnail>https://i.imgur.com/sfUCPIz.png</thumbnail>
+<fanart>https://i.imgur.com/uZAZNcx.png</fanart>
+</dir>
+
+<dir>
+<title>DC Universe (DCU) (Coming Soon)</title>
+<tmdb>list/8190479</tmdb>
+<thumbnail>https://i.imgur.com/7JpSKOK.png</thumbnail>
 <fanart>https://i.imgur.com/uZAZNcx.png</fanart>
 </dir>
