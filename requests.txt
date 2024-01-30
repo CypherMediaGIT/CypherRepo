@@ -1,0 +1,14 @@
+<item>
+<title>SpaceCamp</title>
+<meta>
+<imdb>tt0091993</imdb>
+<title>SpaceCamp</title>
+<content>movie</content>
+</meta>
+<link>
+<sublink>https://1fichier.com/?idcil049cg97oltgox9q</sublink>
+</link>
+<summary>Andie Bergstrom (Kate Capshaw), an astronaut eagerly awaiting her first trip to space, runs a summer camp for teenagers with her NASA-employed husband, Zach (Tom Skerritt). One night during an engine test, Andie and four teenage campers are accidentally shot into space. Together, the group which includes Kathryn (Lea Thompson), a pilot-in-training, and Tish (Kelly Preston), a ditz with a perfect memory, must work together to operate the spacecraft and return home.</summary>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geljHnOUqjQCOeoT59RUKWEeVbS.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/fanart.jpg</fanart>
+</item>
