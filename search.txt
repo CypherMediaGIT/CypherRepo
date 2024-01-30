@@ -1,12 +1,12 @@
 <dir>
-<title>[COLORdarkred]Movie Search[/COLOR]</title>
+<title>[COLORghostwhite]Movie Search[/COLOR]</title>
 <tmdb>search</tmdb>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/search.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/fanart.jpg</fanart>
 </dir>
 
 <dir>
-<title>[COLORdarkred]TV Shows Search[/COLOR]</title>
+<title>[COLORghostwhite]TV Shows Search[/COLOR]</title>
 <tmdb>search</tmdb>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/search.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/fanart.jpg</fanart>
