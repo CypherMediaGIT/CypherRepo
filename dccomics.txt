@@ -42,7 +42,7 @@
 
 <dir>
 <title>DC Shows</title>
-<tmdb>list/8289684</tmdb>
+<link>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/dcshows.txt</link>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dc.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dceu.png</fanart>
 </dir>
@@ -56,7 +56,7 @@
 
 <dir>
 <title>DC Universe (DCU) (Coming Soon)</title>
-<tmdb>list/8190479</tmdb>
+<tmdb>list/135938</tmdb>
 <thumbnail>https://i.imgur.com/7JpSKOK.png</thumbnail>
 <fanart>https://i.imgur.com/uZAZNcx.png</fanart>
 </dir>
