@@ -12,3 +12,10 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geljHnOUqjQCOeoT59RUKWEeVbS.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/fanart.jpg</fanart>
 </item>
+
+<item>
+<title>movie test</title>
+<imdb>ls000634294</imdb>
+<thumbnail>https://i.imgur.com/7JpSKOK.png</thumbnail>
+<fanart>https://i.imgur.com/uZAZNcx.png</fanart>
+</item>

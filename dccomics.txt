@@ -61,10 +61,3 @@
 <fanart>https://i.imgur.com/uZAZNcx.png</fanart>
 </dir>
 
-<dir>
-<title>movie test</title>
-<imdb>ls000634294</imdb>
-<thumbnail>https://i.imgur.com/7JpSKOK.png</thumbnail>
-<fanart>https://i.imgur.com/uZAZNcx.png</fanart>
-</dir>
-
