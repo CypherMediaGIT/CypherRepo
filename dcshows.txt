@@ -1,0 +1,20 @@
+<dir>
+<title>DC TV Shows Part 1</title>
+<tmdb>list/8289684</tmdb>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dc.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dceu.png</fanart>
+</dir>
+
+<dir>
+<title>DC TV Shows Part 2</title>
+<tmdb>list/8289695</tmdb>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dc.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dceu.png</fanart>
+</dir>
+
+<dir>
+<title>Vertigo/WildStorm TV Shows</title>
+<tmdb>list/8289697</tmdb>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dc.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dceu.png</fanart>
+</dir>
