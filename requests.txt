@@ -15,7 +15,7 @@
 
 <dir>
 <title>testing</title>
-<link>https://api.themoviedb.org/3/discover/tv?api_key=3554fcb17128b489395c322eadf52db5&with_networks=9</link>
+<link>https://api.themoviedb.org/3/discover/tv?api_key=3554fcb17128b489395c322eadf52db5</link>
 <thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dc.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dceu.png</fanart>
 </dir>
