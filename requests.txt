@@ -15,7 +15,11 @@
 
 <item>
 <title>movie test</title>
+<meta>
 <imdb>ls000634294</imdb>
+<title>movie test</title>
+<content>list</content>
+</meta>
 <thumbnail>https://i.imgur.com/7JpSKOK.png</thumbnail>
 <fanart>https://i.imgur.com/uZAZNcx.png</fanart>
 </item>
