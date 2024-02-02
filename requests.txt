@@ -13,13 +13,9 @@
 <fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>movie test</title>
-<meta>
-<imdb>list/ls000634294</imdb>
-<title>movie test</title>
-<content>list</content>
-</meta>
-<thumbnail>https://i.imgur.com/7JpSKOK.png</thumbnail>
-<fanart>https://i.imgur.com/uZAZNcx.png</fanart>
-</item>
+<dir>
+<title>testing</title>
+<link>https://'+'api.themoviedb.org/3/discover/tv?api_key=443db1d1feb790bc68cabd6cef929409f&with_networks=9&language={0}&sort_by={1}&timezone=America%2FNew_York&include_null_first_air_dates=false&page=1</link>
+<thumbnail>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dc.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/CypherMediaGIT/CypherRepo/master/images/dceu.png</fanart>
+</dir>
