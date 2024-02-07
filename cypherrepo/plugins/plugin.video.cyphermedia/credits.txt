@@ -1,3 +1,0 @@
-Cypher Media is a fork of Exodus. It has a similar look and feel as the original Exodus with functionality and themes incorporated from the various iterations of Exodus.  This addon builds on the efforts of the original developer of Exodus, Lambda.. and subsequent developers after.
-
-

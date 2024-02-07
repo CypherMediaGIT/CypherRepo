@@ -1,8 +1,0 @@
-[B]Last Update:[/B] March 02, 2020
-
-script.module.cyphermedia - 1.0.5
-[I]- Fixed TV Section
-
-
-[B]Important!![/B] Reset Cypher Media settings to Defaults if you are experiencing issues.
-If you reset to Defaults, Trakt will need to be re-authorized and IMDb credentials will need to be re-entered.

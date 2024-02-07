@@ -1,3 +1,0 @@
-[B]Version 13.3.2020[/B]
-Changes by Cypher
- - Inital Release Forked from LiveStreams Pro for use With Cypher Media
